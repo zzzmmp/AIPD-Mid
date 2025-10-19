@@ -1,0 +1,716 @@
+﻿Tag,Inorganic phosphor,Host,1st dopant,1st doping concentration,2nd dopant,2nd doping concentration ,Temp. (K),Emission max. (nm),CIE x coordinate,CIE y coordinate,Int. quantum efficiency (%),Ext. quantum efficiency (%),Thermal quenching temp. (K),Excitation source (nm),1st Excitation max. (nm),2nd Excitation max. (nm),3rd Excitation max. (nm),Decay time (ns),Monitoring energy (nm),Reference,MP-ID,ICSD-ID,Journal,Year
+1,Y2Mg1.9Al2Si2O12Eu0.1,Y2Mg1.9Al2Si2O12,Eu2+,0.1,,,298,491,0.218,0.359,19,,,370,,,,,,https://doi.org/10.1021/acssuschemeng.9b01401,,,ACS Sustainable Chemistry and Engineering,2019
+2,Ca7.587Sr1.35YP7O28Eu0.007,Ca7.587Sr1.35YP7O28,Eu2+,0.007,,,298,492,0.217,0.353,,,,380,,,,,,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+3,Ba3Y0.5Lu0.5Al2O7.5Ce0.03,Ba3Y0.5Lu0.5Al2O7.5,Ce3+,0.03,,,298,493,0.2099,0.3992,,,410,375,397,,,22.56,480,https://doi.org/10.1016/j.cej.2017.01.044,mp-1214519,,Chemical Engineering Journal,2017
+4,Ba2V2O7,Ba2V2O7,,,,,298,494,0.277,0.389,25,,,350,,,,,494,https://doi.org/10.1021/jp910884c,mp-19474, icsd-34320,Journal of Physical Chemistry C,2010
+5,Ca9GdP7O28Eu0.007,Ca9GdP7O28,Eu2+,0.007,,,298,494,0.219,0.371,,,,380,,,,,,https://doi.org/10.1021/jp106693z,,,Journal of Physical Chemistry C,2010
+6,Ca8.28GdP7O28Eu0.007Mn0.01,Ca8.28GdP7O28,Eu2+,0.007,Mn2+,0.01,298,494,0.257,0.36,,,,380,,,,,,https://doi.org/10.1021/jp106693z,,,Journal of Physical Chemistry C,2010
+7,Ca8.19GdP7O28Eu0.007Mn0.02,Ca8.19GdP7O28,Eu2+,0.007,Mn2+,0.02,298,494,0.326,0.328,,,,380,,,,,,https://doi.org/10.1021/jp106693z,,,Journal of Physical Chemistry C,2010
+8,Ca7.137Sr1.8YP7O28Eu0.007,Ca7.137Sr1.8YP7O28,Eu2+,0.007,,,298,494,0.223,0.369,,,,380,,,,,,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+9,BaSi2O2N2Eu1,BaSi2O2N2,Eu2+,1,,,298,495,,,57.4,,480,450,,,,,,https://doi.org/10.1016/j.actamat.2021.116813,,,Acta Materialia,2021
+10,BaSi2N2O2Eu0.02,BaSi2N2O2,Eu2+,0.02,,,298,495,0.076,0.44,71,,600,450,,,,,,https://doi.org/10.1021/cm802394w,mp-6764, icsd-419450 icsd-173758,Chemistry of Materials,2008
+11,Ba0.98Si2N2O2Eu0.02,Ba0.98Si2N2O2,Eu3+,0.02,,,298,495,0.076,0.44,71,,600,450,,,,470,,https://doi.org/10.1021/cm802394w,mp-6764, icsd-419450 icsd-173758,Chemistry of Materials,2008
+12,Sr1.97Sb2O7Bi0.03,Sr1.97Sb2O7,Bi3+,0.03,,,298,496,0.1897,0.4505,50.48,23.74,,372,372,,,299.41,496,https://doi.org/10.1021/acssuschemeng.1c01396,mp-4103, icsd-77062 icsd-62960,ACS Sustainable Chemistry and Engineering,2021
+13,Sr1.773Ca0.197Sb2O7Bi0.03,Sr1.773Ca0.197Sb2O7,Bi3+,0.03,,,298,496,0.1654,0.3525,43.8,21.71,,372,372,,,294.67,496,https://doi.org/10.1021/acssuschemeng.1c01396,mp-4103, icsd-77062 icsd-62960,ACS Sustainable Chemistry and Engineering,2021
+14,Sr1.576Ca0.394Sb2O7Bi0.03,Sr1.576Ca0.394Sb2O7,Bi3+,0.03,,,298,496,0.1524,0.2724,38.6,16.13,,372,372,,,287.49,496,https://doi.org/10.1021/acssuschemeng.1c01396,mp-4103, icsd-77062 icsd-62960,ACS Sustainable Chemistry and Engineering,2021
+15,Sr1.182Ca0.788Sb2O7Bi0.03,Sr1.182Ca0.788Sb2O7,Bi3+,0.03,,,298,496,0.1433,0.1331,30.41,16.13,,372,372,,,277.03,496,https://doi.org/10.1021/acssuschemeng.1c01396,mp-4103, icsd-77062 icsd-62960,ACS Sustainable Chemistry and Engineering,2021
+16,Ca6.687Sr2.25YP7O28Eu0.007,Ca6.687Sr2.25YP7O28,Eu2+,0.007,,,298,496,0.238,0.383,,,,380,,,,,,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+17,Ca2NaZn2V3O12,Ca2NaZn2V3O12,,,,,298,497,0.2146,0.338,11.4,,,365,365,,,9550000,497,https://doi.org/10.1016/j.jpcs.2013.05.002,mp-706235,,Journal of Physics and Chemistry of Solids,2013
+18,Ca1.99Na1.01Zn2V3O12Sm0.01,Ca1.99Na1.01Zn2V3O12,Sm3+,0.01,,,298,497,0.2548,0.384,,,,365,340,,,,497,https://doi.org/10.1016/j.jpcs.2013.05.002,mp-706235,,Journal of Physics and Chemistry of Solids,2013
+19,Ca1.97Na1.03Zn2V3O12Sm0.03,Ca1.97Na1.03Zn2V3O12,Sm3+,0.03,,,298,497,0.2673,0.3794,,,,365,340,,,9030000,497,https://doi.org/10.1016/j.jpcs.2013.05.002,mp-706235,,Journal of Physics and Chemistry of Solids,2013
+20,Ca1.92Na1.08Zn2V3O12Sm0.08,Ca1.92Na1.08Zn2V3O12,Sm3+,0.08,,,298,497,0.2794,0.374,15.1,,,365,340,,,,497,https://doi.org/10.1016/j.jpcs.2013.05.002,mp-706235,,Journal of Physics and Chemistry of Solids,2013
+21,Ca1.9Na1.1Zn2V3O12Sm0.1,Ca1.9Na1.1Zn2V3O12,Sm3+,0.1,,,298,497,0.2931,0.3741,,,,365,340,,,,497,https://doi.org/10.1016/j.jpcs.2013.05.002,mp-706235,,Journal of Physics and Chemistry of Solids,2013
+22,Ba3Sc4O9Bi0.016,Ba3Sc4O9,Bi3+,0.016,,,298,500,0.2553,0.4034,,,486,330,,,,729.12,500,https://doi.org/10.1111/jace.14789,,,Journal of the American Ceramic Society,2017
+23,Rb3YV2O8,Rb3YV2O8,,,,,298,500,,,71,47,423,362,362,,,20060,500,https://doi.org/10.1021/acs.inorgchem.0c00015,mp-1209350,,Inorganic Chemistry,2020
+24,Rb3LuV2O8,Rb3LuV2O8,,,,,298,500,,,85,38,423,362,362,,,23750,500,https://doi.org/10.1021/acs.inorgchem.0c00015,mp-1209398,,Inorganic Chemistry,2020
+25,Sr2.985ScP3O12Eu0.005,Sr2.985ScP3O12,Eu2+,0.005,,,298,500,0.277,0.428,11,,,350,350,,,601,500,https://doi.org/10.1039/C3DT32946A,,,Dalton Transactions,2013
+26,Sr2.97ScP3O12Eu0.005Mn0.005,Sr2.97ScP3O12,Eu2+,0.005,Mn2+,0.005,298,500,0.306,0.415,11.6,,,350,,,,575,500,https://doi.org/10.1039/C3DT32946A,,,Dalton Transactions,2013
+27,Sr2.955ScP3O12Eu0.005Mn0.01,Sr2.955ScP3O12,Eu2+,0.005,Mn2+,0.01,298,500,0.329,0.413,12.3,,,350,,,,560,500,https://doi.org/10.1039/C3DT32946A,,,Dalton Transactions,2013
+28,Sr2.925ScP3O12Eu0.005Mn0.02,Sr2.925ScP3O12,Eu2+,0.005,Mn2+,0.02,298,500,0.368,0.411,13.7,,,350,,,,550,500,https://doi.org/10.1039/C3DT32946A,,,Dalton Transactions,2013
+29,Ca0.949Si2O2N2Ce0.05Eu0.001,Ca0.949Si2O2N2,Ce3+,0.05,Eu2+,0.001,298,500,0.27,0.36,43,,,340,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04461.x,mp-556884, icsd-413882,Journal of the American Ceramic Society,2011
+30,Ba1.28Ca0.7SiO4Eu0.02,Ba1.28Ca0.7SiO4,Eu2+,0.02,,,298,500,0.165,0.248,53,,,390,300,,,,500,https://doi.org/10.1021/ic501423p,mp-17612, icsd-291359 icsd-291355 icsd-6246 icsd-28476,Inorganic Chemistry,2014
+31,Ba1.28Ca0.7SiO4Eu0.02,Ba1.28Ca0.7SiO4,Eu2+,0.02,,,298,500,,,,,,355,,,,605,490,https://doi.org/10.1021/ic501423p,mp-17612, icsd-291359 icsd-291355 icsd-6246 icsd-28476,Inorganic Chemistry,2014
+32,Ba1.28Ca0.69SiO4Eu0.02Mn0.01,Ba1.28Ca0.69SiO4,Eu2+,0.02,Mn2+,0.01,298,500,0.292,0.352,48,,,390,,,,,,https://doi.org/10.1021/ic501423p,mp-17612, icsd-291359 icsd-291355 icsd-6246 icsd-28476,Inorganic Chemistry,2014
+33,Ba1.28Ca0.68SiO4Eu0.02Mn0.02,Ba1.28Ca0.68SiO4,Eu2+,0.02,Mn2+,0.02,298,500,0.345,0.375,43,,,390,,,,,,https://doi.org/10.1021/ic501423p,mp-17612, icsd-291359 icsd-291355 icsd-6246 icsd-28476,Inorganic Chemistry,2014
+34,Ca7MgSi4O16Ce0.04Eu0.02,Ca7MgSi4O16,Ce3+,0.04,Eu2+,0.02,298,500,0.179,0.275,,,,365,,,,29.2,440,https://doi.org/10.1039/C2CP23343F,,,Physical Chemistry Chemical Physics,2012
+35,Ca7MgSi4O16Ce0.04Eu0.04,Ca7MgSi4O16,Ce3+,0.04,Eu2+,0.04,298,500,0.195,0.427,16,,,365,,,,27.6,440,https://doi.org/10.1039/C2CP23343F,,,Physical Chemistry Chemical Physics,2012
+36,Ca7MgSi4O16Ce0.04Eu0.05,Ca7MgSi4O16,Ce3+,0.04,Eu2+,0.05,298,500,,,,,,365,,,,8.7,440,https://doi.org/10.1039/C2CP23343F,,,Physical Chemistry Chemical Physics,2012
+37,Ca7MgSi4O16Ce0.04Eu0.06,Ca7MgSi4O16,Ce3+,0.04,Eu2+,0.06,298,500,,,,,,365,,,,6.5,440,https://doi.org/10.1039/C2CP23343F,,,Physical Chemistry Chemical Physics,2012
+38,Ca7MgSi4O16Ce0.04Eu0.07,Ca7MgSi4O16,Ce3+,0.04,Eu2+,0.07,298,500,,,,,,365,,,,2.9,440,https://doi.org/10.1039/C2CP23343F,,,Physical Chemistry Chemical Physics,2012
+39,Ca7MgSi4O16Ce0.04Eu0.08,Ca7MgSi4O16,Ce3+,0.04,Eu2+,0.08,298,500,,,,,,365,,,,1.4,440,https://doi.org/10.1039/C2CP23343F,,,Physical Chemistry Chemical Physics,2012
+40,Ca7MgSi4O16Eu0.04,Ca7MgSi4O16,Eu2+,0.04,,,298,500,,,,,448,365,365,,,,440,https://doi.org/10.1039/C2CP23343F,,,Physical Chemistry Chemical Physics,2012
+41,LiCa3MgV3O12,LiCa3MgV3O12,,,,,298,500,0.2393,0.326,,,,310,310,,,13730,500,https://doi.org/10.1016/j.materresbull.2018.11.011,,,Materials Research Bulletin,2019
+42,LiCa2.995MgV3O12Bi0.005,LiCa2.995MgV3O12,Bi3+,0.005,,,298,500,0.2907,0.3652,,,,310,310,,,13520,500,https://doi.org/10.1016/j.materresbull.2018.11.011,,,Materials Research Bulletin,2019
+43,LiCa2.99MgV3O12Bi0.01,LiCa2.99MgV3O12,Bi3+,0.01,,,298,500,0.3198,0.3982,,,,310,310,,,13140,500,https://doi.org/10.1016/j.materresbull.2018.11.011,,,Materials Research Bulletin,2019
+44,LiCa2.98MgV3O12Bi0.02,LiCa2.98MgV3O12,Bi3+,0.02,,,298,500,0.3504,0.4102,,,,310,310,,,12570,500,https://doi.org/10.1016/j.materresbull.2018.11.011,,,Materials Research Bulletin,2019
+45,LiCa2.96MgV3O12Bi0.04,LiCa2.96MgV3O12,Bi3+,0.04,,,298,500,0.401,0.444,,,,310,310,,,11720,500,https://doi.org/10.1016/j.materresbull.2018.11.011,,,Materials Research Bulletin,2019
+46,LiCa2.94MgV3O12Bi0.06,LiCa2.94MgV3O12,Bi3+,0.06,,,298,500,0.422,0.4539,,,,310,310,,,11390,500,https://doi.org/10.1016/j.materresbull.2018.11.011,,,Materials Research Bulletin,2019
+47,LiCa2.92MgV3O12Bi0.08,LiCa2.92MgV3O12,Bi3+,0.08,,,298,500,0.4358,0.4472,,,,310,310,,,10990,500,https://doi.org/10.1016/j.materresbull.2018.11.011,,,Materials Research Bulletin,2019
+48,Ca3V2O8,Ca3V2O8,,,,,298,501,0.328,0.407,0.7,,,350,,,,,501,https://doi.org/10.1021/jp910884c,"mp-532028,mp-505741,mp-1182001", icsd-412273,Journal of Physical Chemistry C,2010
+49,Ca11Si4O22B2Eu0.005,Ca11Si4O22B2,Eu2+,0.005,,,298,502,0.247,0.478,,,,365,365,,,,505,https://doi.org/10.1039/C3TC30933A,,,Journal of Materials Chemistry C,2013
+50,Ca9LaP7O28Eu0.005,Ca9LaP7O28,Eu2+,0.005,,,298,502,0.281,0.445,,,483,365,405,,,838,502,https://doi.org/10.1364/OE.18.005089,,,Optics Express,2010
+51,Ca9LaP7O28Eu0.005Mn0.01,Ca9LaP7O28,Eu2+,0.005,Mn2+,0.01,298,502,0.367,0.411,,,,365,405,,,768,502,https://doi.org/10.1364/OE.18.005089,,,Optics Express,2010
+52,Ca9LaP7O28Eu0.005Mn0.015,Ca9LaP7O28,Eu2+,0.005,Mn2+,0.015,298,502,0.406,0.388,,,,365,405,,,611,502,https://doi.org/10.1364/OE.18.005089,,,Optics Express,2010
+53,Ca9LaP7O28Eu0.005Mn0.03,Ca9LaP7O28,Eu2+,0.005,Mn2+,0.03,298,502,0.495,0.358,,,,365,405,,,424,502,https://doi.org/10.1364/OE.18.005089,,,Optics Express,2010
+54,Ca8.9CeP7O28Eu0.1,Ca8.9CeP7O28,Eu2+,0.1,,,298,502,,,27,,,320,,,,246,377,https://doi.org/10.1039/C6CP05490K,,,Physical Chemistry Chemical Physics,2016
+55,Ca8.88CeP7O28Eu0.12,Ca8.88CeP7O28,Eu2+,0.12,,,298,502,,,21,,,320,,,,,377,https://doi.org/10.1039/C6CP05490K,,,Physical Chemistry Chemical Physics,2016
+56,Ca8.86CeP7O28Eu0.14,Ca8.86CeP7O28,Eu2+,0.14,,,298,502,,,19,,,320,,,,212,377,https://doi.org/10.1039/C6CP05490K,,,Physical Chemistry Chemical Physics,2016
+57,Ca6.237Sr2.7YP7O28Eu0.007,Ca6.237Sr2.7YP7O28,Eu2+,0.007,,,298,502,0.249,0.413,,,,380,,,,,,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+58,Ba2Y1.94Si4O13Bi0.03,Ba2Y1.94Si4O13,Bi3+,0.03,,,298,503,0.219,0.35,,,,342,342,,,477,503,https://doi.org/10.1111/jace.16048,,,Journal of the American Ceramic Society,2018
+59,Ba2Y1.86Si4O13Bi0.03Eu0.04,Ba2Y1.86Si4O13,Bi3+,0.03,Eu3+,0.04,298,503,0.229,0.351,,,,342,,,,475,503,https://doi.org/10.1111/jace.16048,,,Journal of the American Ceramic Society,2018
+60,Ba2Y1.78Si4O13Bi0.03Eu0.08,Ba2Y1.78Si4O13,Bi3+,0.03,Eu3+,0.08,298,503,0.324,0.347,,,,342,,,,474,503,https://doi.org/10.1111/jace.16048,,,Journal of the American Ceramic Society,2018
+61,La4.65Si3O12NCe0.06Tb0.01,La4.65Si3O12N,Ce3+,0.06,Tb3+,0.01,298,503,0.1697,0.2277,,,,365,,,,,,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+62,La4.6Si3O12NCe0.06Tb0.02,La4.6Si3O12N,Ce3+,0.06,Tb3+,0.02,298,503,0.1782,0.2504,,,,365,,,,92.03,460,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+63,La4.55Si3O12NCe0.06Tb0.03,La4.55Si3O12N,Ce3+,0.06,Tb3+,0.03,298,503,0.1873,0.2731,,,,365,,,,,,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+64,Sr2.95YP3O12Eu0.05,Sr2.95YP3O12,Eu2+,0.05,,,298,504,0.189,0.359,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+65,Sr2.95Y0.99P3O12Eu0.05Tb0.01,Sr2.95Y0.99P3O12,Eu2+,0.05,Tb3+,0.01,298,504,0.195,0.377,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+66,Sr2.95Y0.97P3O12Eu0.05Tb0.03,Sr2.95Y0.97P3O12,Eu2+,0.05,Tb3+,0.03,298,504,0.197,0.38,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+67,Sr2.95Y0.95P3O12Eu0.05Tb0.05,Sr2.95Y0.95P3O12,Eu2+,0.05,Tb3+,0.05,298,504,0.198,0.382,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+68,Sr2.95Y0.93P3O12Eu0.05Tb0.07,Sr2.95Y0.93P3O12,Eu2+,0.05,Tb3+,0.07,298,504,0.2,0.388,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+69,Y1.9Si4N6CCe0.05La0.3,Y1.9Si4N6C,Ce3+,0.05,La3+,0.3,298,505,0.28,0.45,,,,378,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04571.x,mp-6353, icsd-162422 icsd-155158 icsd-162421,Journal of the American Ceramic Society,2011
+70,Ca10.945Si4O22B2Eu0.005,Ca10.945Si4O22B2,Eu2+,0.005,,,298,505,0.247,0.478,5.3,,,365,365,,,,505,https://doi.org/10.1039/C3TC30933A,,,Journal of Materials Chemistry C,2013
+71,Ca2La0.97Hf2Al3O12Ce0.03,Ca2La0.97Hf2Al3O12,Ce3+,0.03,,,298,506,0.277,0.469,47.3,,,408,,,,,,https://doi.org/10.1016/j.jallcom.2020.155469,,,Journal of Alloys and Compounds,2020
+72,Na2CaPO4FEu0.02,Na2CaPO4F,Eu2+,0.02,,,298,506,,,,,428,390,390,,,,506,https://doi.org/10.1016/j.jlumin.2011.02.034,"mp-559376,mp-39260", icsd-158183,Journal of Luminescence,2011
+73,Ba2V2O7,Ba2V2O7,,,,,298,508,,,33,16,,336,336,,,,508,https://doi.org/10.1111/jace.13463,mp-19474, icsd-34320,Journal of the American Ceramic Society,2015
+74,Ca4.437Sr4.5YP7O28Eu0.007,Ca4.437Sr4.5YP7O28,Eu2+,0.007,,,298,508,0.273,0.459,,,,380,,,,993,508,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+75,Ca4.392Sr4.5YP7O28Eu0.007Mn0.005,Ca4.392Sr4.5YP7O28,Eu2+,0.007,Mn2+,0.005,298,508,0.3,0.451,,,,380,,,,920,508,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+76,Ca4.347Sr4.5YP7O28Eu0.007Mn0.01,Ca4.347Sr4.5YP7O28,Eu2+,0.007,Mn2+,0.01,298,508,0.321,0.443,,,,380,,,,863,508,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+77,Ca4.257Sr4.5YP7O28Eu0.007Mn0.02,Ca4.257Sr4.5YP7O28,Eu2+,0.007,Mn2+,0.02,298,508,0.358,0.431,,,,380,,,,697,508,https://doi.org/10.1039/C1JM11018G,,,Journal of Materials Chemistry,2011
+78,Ca0.975Sr0.975SiO4Eu0.05,Ca0.975Sr0.975SiO4,Eu2+,0.05,,,298,509,,,,,453,385,,,,,,https://doi.org/10.1016/j.ceramint.2014.12.131,mp-554006, icsd-20544,Ceramics International,2015
+79,Ca2.9925Si2O4N2Eu0.0025,Ca2.9925Si2O4N2,Eu2+,0.0025,,,298,509,0.25,0.5,,,,330,,,,,,https://doi.org/10.1364/OE.19.00A331,,,Optics Express,2011
+80,Ba5Si2O6Cl6Eu0.005,Ba5Si2O6Cl6,Eu2+,0.005,,,298,510,,,,,,400,400,,,575.43,510,https://doi.org/10.1039/C7RA07221J,,,RSC Advances,2017
+81,Ba5Si2O6Cl6Eu0.01,Ba5Si2O6Cl6,Eu2+,0.01,,,298,510,,,,,,400,400,,,535.06,510,https://doi.org/10.1039/C7RA07221J,,,RSC Advances,2017
+82,Ba5Si2O6Cl6Eu0.02,Ba5Si2O6Cl6,Eu2+,0.02,,,298,510,,,44,,430,400,400,,,517.72,510,https://doi.org/10.1039/C7RA07221J,,,RSC Advances,2017
+83,Ba5Si2O6Cl6Eu0.03,Ba5Si2O6Cl6,Eu2+,0.03,,,298,510,,,,,,400,400,,,475.45,510,https://doi.org/10.1039/C7RA07221J,,,RSC Advances,2017
+84,Ba5Si2O6Cl6Eu0.04,Ba5Si2O6Cl6,Eu2+,0.04,,,298,510,,,,,,400,400,,,439.21,510,https://doi.org/10.1039/C7RA07221J,,,RSC Advances,2017
+85,Ba5Si2O6Cl6Eu0.05,Ba5Si2O6Cl6,Eu2+,0.05,,,298,510,,,,,,400,400,,,436.7,510,https://doi.org/10.1039/C7RA07221J,,,RSC Advances,2017
+86,Ba5Si2O6Cl6Eu0.06,Ba5Si2O6Cl6,Eu2+,0.06,,,298,510,,,,,,400,400,,,427.78,510,https://doi.org/10.1039/C7RA07221J,,,RSC Advances,2017
+87,Y1.9Si4N6CCe0.05La0.2,Y1.9Si4N6C,Ce3+,0.05,La3+,0.2,298,510,0.3,0.48,,,,383,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04571.x,mp-6353, icsd-162422 icsd-155158 icsd-162421,Journal of the American Ceramic Society,2011
+88,Ba0.99YSi2Al2O2N5Eu0.01,Ba0.99YSi2Al2O2N5,Eu2+,0.01,,,298,510,0.2345,0.5577,,,,354,354,,,,510,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+89,Ba8.91Sc2Si6O24Eu0.09,Ba8.91Sc2Si6O24,Eu2+,0.09,,,298,510,0.164,0.349,19.3,,,330,,,,,,https://doi.org/10.1039/C5RA10945K,mp-558428,,RSC Advances,2015
+90,Ca2.985Si2O4N2Eu0.005,Ca2.985Si2O4N2,Eu2+,0.005,,,298,510,0.26,0.5,,,,330,,,,,,https://doi.org/10.1364/OE.19.00A331,,,Optics Express,2011
+91,Ca2.97Si2O4N2Eu0.01,Ca2.97Si2O4N2,Eu2+,0.01,,,298,510,0.26,0.51,,,478,330,,,,,,https://doi.org/10.1364/OE.19.00A331,,,Optics Express,2011
+92,Sr8.97ScP7O28Eu0.03,Sr8.97ScP7O28,Eu2+,0.03,,,298,510,0.385,0.5,,,,365,,,,633,510,https://doi.org/10.1002/ejic.201301216,,,European Journal of Inorganic Chemistry,2013
+93,Y1.98Mg1.99Al2Si2O12Eu0.01Ce0.02,Y1.98Mg1.99Al2Si2O12,Eu2+,0.01,Ce3+,0.02,298,510,0.294,0.349,,,,365,,,,441,464,https://doi.org/10.1021/acs.inorgchem.1c00317,,,Inorganic Chemistry,2021
+94,Ba2LuB2O6ClEu0.03,Ba2LuB2O6Cl,Eu3+,0.03,,,298,511,,,,,673,365,365,,,1270,511,https://doi.org/10.1021/ic200988w,mp-1228639,,Inorganic Chemistry,2011
+95,Ca2.91Si2O4N2Eu0.03,Ca2.91Si2O4N2,Eu2+,0.03,,,298,511,0.29,0.49,,,,330,,,,,,https://doi.org/10.1364/OE.19.00A331,,,Optics Express,2011
+96,Ba0.99LuAl2Si2O2N5Eu0.01,Ba0.99LuAl2Si2O2N5,Eu2+,0.01,,,298,512,0.259,0.514,40.1,29.5,461,365,305,,,,512,https://doi.org/10.1039/C9TC06932A,,,Journal of Materials Chemistry C,2020
+97,CsVO3,CsVO3,,,,,298,512,0.306,0.418,87,,,350,,,,,512,https://doi.org/10.1021/jp910884c,mp-504651, icsd-1489,Journal of Physical Chemistry C,2010
+98,Ba0.98YSi2Al2O2N5Eu0.02,Ba0.98YSi2Al2O2N5,Eu2+,0.02,,,298,512,0.241,0.554,,,,358,358,,,,512,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+99,Ca0.99Sr2Al2O6Ce0.01,Ca0.99Sr2Al2O6,Ce3+,0.01,,,503,513,0.2793,0.4821,,,,375,,,,,,https://doi.org/10.1016/j.jlumin.2018.10.119,mp-3393, icsd-71860 icsd-66062,Journal of Luminescence,2019
+100,Sr3V2O8,Sr3V2O8,,,,,298,513,0.329,0.415,3.7,,,350,,,,,513,https://doi.org/10.1021/jp910884c,mp-19386, icsd-73258 icsd-167701,Journal of Physical Chemistry C,2010
+101,RbVO3,RbVO3,,,,,298,514,0.316,0.424,,,,350,,,,,514,https://doi.org/10.1021/jp910884c,"mp-19031,mp-1076638", icsd-1488,Journal of Physical Chemistry C,2010
+102,YNb0.8V0.2O4Bi0.01,YNb0.8V0.2O4,Bi3+,0.01,,,298,514,0.312,0.365,47.1,,,310,,,,,,https://doi.org/10.1021/acs.chemmater.6b00277,"mp-5387,mp-1095229", icsd-430911 icsd-20335 icsd-100176 icsd-239207 icsd-430907 icsd-430914 icsd-430913 icsd-430912 icsd-430908 icsd-430916 icsd-430909 icsd-430015 icsd-430910 icsd-430919 icsd-430922 icsd-239208 icsd-430917 icsd-239209 icsd-430920 icsd-430921 icsd-430918,Chemistry of Materials,2016
+103,Ca2.85Si2O4N2Eu0.05,Ca2.85Si2O4N2,Eu2+,0.05,,,298,514,0.33,0.51,,,,330,,,,,,https://doi.org/10.1364/OE.19.00A331,,,Optics Express,2011
+104,Sr1.75Ca1.24P2O8Eu0.01,Sr1.75Ca1.24P2O8,Eu2+,0.01,,,298,514,0.374,0.588,,,,365,279,364,,,514,https://doi.org/10.1021/ic500230v,mp-4632, icsd-69449 icsd-184780 icsd-150869 icsd-18109 icsd-30635 icsd-410784,Inorganic Chemistry,2014
+105,Ca2La0.95Hf2Al3O12Ce0.05,Ca2La0.95Hf2Al3O12,Ce3+,0.05,,,298,515,0.294,0.481,46.5,,360,408,408,325,,,515,https://doi.org/10.1016/j.jallcom.2020.155469,,,Journal of Alloys and Compounds,2020
+106,Ba0.96YSi2Al2O2N5Eu0.04,Ba0.96YSi2Al2O2N5,Eu2+,0.04,,,298,515,0.2655,0.5698,,,,354,354,,,,515,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+107,Ca2La0.98Zr2Ga3O12Ce0.02,Ca2La0.98Zr2Ga3O12,Ce3+,0.02,,,298,515,0.271,0.479,,,,430,430,,,,515,https://doi.org/10.1021/jp508409r,,,Journal of Physical Chemistry C,2015
+108,Ca2La0.94Zr2Ga3O12Ce0.06,Ca2La0.94Zr2Ga3O12,Ce3+,0.06,,,298,515,,,35.2,,363,430,430,,,,515,https://doi.org/10.1021/jp508409r,,,Journal of Physical Chemistry C,2015
+109,Ca2La0.8Zr2Ga3O12Ce0.2,Ca2La0.8Zr2Ga3O12,Ce3+,0.2,,,298,515,0.285,0.502,,,,430,430,,,,515,https://doi.org/10.1021/jp508409r,,,Journal of Physical Chemistry C,2015
+110,Ba5P2SiO12Eu0.001,Ba5P2SiO12,Eu2+,0.001,,,298,515,,,,,,405,405,,,714.25,515,https://doi.org/10.1039/C6CP08300E,,,Physical Chemistry Chemical Physics,2017
+111,Ba5P2SiO12Eu0.005,Ba5P2SiO12,Eu2+,0.005,,,298,515,,,,,,405,405,,,702.43,515,https://doi.org/10.1039/C6CP08300E,,,Physical Chemistry Chemical Physics,2017
+112,Ba5P2SiO12Eu0.01,Ba5P2SiO12,Eu2+,0.01,,,298,515,,,31.89,,403,405,405,,,691.76,515,https://doi.org/10.1039/C6CP08300E,,,Physical Chemistry Chemical Physics,2017
+113,Ba5P2SiO12Eu0.02,Ba5P2SiO12,Eu2+,0.02,,,298,515,,,,,,405,405,,,666.95,515,https://doi.org/10.1039/C6CP08300E,,,Physical Chemistry Chemical Physics,2017
+114,Ba5P2SiO12Eu0.03,Ba5P2SiO12,Eu2+,0.03,,,298,515,,,,,,405,405,,,648.72,515,https://doi.org/10.1039/C6CP08300E,,,Physical Chemistry Chemical Physics,2017
+115,Ba5P2SiO12Eu0.04,Ba5P2SiO12,Eu2+,0.04,,,298,515,,,,,,405,405,,,626.52,515,https://doi.org/10.1039/C6CP08300E,,,Physical Chemistry Chemical Physics,2017
+116,Sr5V3O12Cl,Sr5V3O12Cl,,,,,298,517,,,2.7,,,365,,,,4264,517,https://doi.org/10.1039/C3RA42724B,mp-556224, icsd-184835 icsd-171381 icsd-184833 icsd-184834,RSC Advances,2013
+117,Sr2V2O7,Sr2V2O7,,,,,298,518,0.242,0.364,,,,355,355,,,,518,https://doi.org/10.1016/j.actamat.2013.03.036,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Acta Materialia,2013
+118,Sr1.96V2O7Eu0.04,Sr1.96V2O7,Eu3+,0.04,,,298,518,0.272,0.365,,,,355,355,,,,518,https://doi.org/10.1016/j.actamat.2013.03.036,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Acta Materialia,2013
+119,Sr1.92V2O7Eu0.08,Sr1.92V2O7,Eu3+,0.08,,,298,518,0.284,0.366,,,,355,355,,,,518,https://doi.org/10.1016/j.actamat.2013.03.036,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Acta Materialia,2013
+120,Sr1.88V2O7Eu0.12,Sr1.88V2O7,Eu3+,0.12,,,298,518,0.294,0.363,,,,355,355,,,,518,https://doi.org/10.1016/j.actamat.2013.03.036,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Acta Materialia,2013
+121,Sr1.84V2O7Eu0.16,Sr1.84V2O7,Eu3+,0.16,,,298,518,0.284,0.357,,,,355,355,,,,518,https://doi.org/10.1016/j.actamat.2013.03.036,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Acta Materialia,2013
+122,Sr1.80V2O7Eu0.2,Sr1.80V2O7,Eu3+,0.2,,,298,518,0.272,0.355,,,,355,355,,,,518,https://doi.org/10.1016/j.actamat.2013.03.036,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Acta Materialia,2013
+123,Sr1.76V2O7Eu0.24,Sr1.76V2O7,Eu3+,0.24,,,298,518,0.245,0.348,,,,355,355,,,,518,https://doi.org/10.1016/j.actamat.2013.03.036,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Acta Materialia,2013
+124,Ca0.99Sr2Al2O6Ce0.01,Ca0.99Sr2Al2O6,Ce3+,0.01,,,463,519,0.2914,0.4971,,,,375,,,,,,https://doi.org/10.1016/j.jlumin.2018.10.119,mp-3393, icsd-71860 icsd-66062,Journal of Luminescence,2019
+125,Ba3V2O8,Ba3V2O8,,,,,298,519,0.303,0.591,0.5,,,350,,,,,519,https://doi.org/10.1021/jp910884c,mp-19365, icsd-78169 icsd-14237 icsd-167695,Journal of Physical Chemistry C,2010
+126,Ba0.92YSi2Al2O2N5Eu0.08,Ba0.92YSi2Al2O2N5,Eu2+,0.08,,,298,519,0.2923,0.5771,,,433,359,359,,,,519,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+127,SrBaSiO4Eu1,SrBaSiO4,Eu2+,1,,,298,520,,,86.6,,485,450,,,,,,https://doi.org/10.1016/j.actamat.2021.116813,,,Acta Materialia,2021
+128,Y1.9Si4N6CCe0.05La0.1,Y1.9Si4N6C,Ce3+,0.05,La3+,0.1,298,520,0.33,0.48,,,,384,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04571.x,mp-6353, icsd-162422 icsd-155158 icsd-162421,Journal of the American Ceramic Society,2011
+129,Sc2W3O12,Sc2W3O12,,,,,298,520,,,,,,264,264,,,31630,520,https://doi.org/10.1016/j.ceramint.2019.02.107,"mp-5516,mp-1219450", icsd-50941 icsd-50940 icsd-391468 icsd-28467 icsd-50942,Ceramics International,2019
+130,Ca0.947Si2O2N2Ce0.05Eu0.003,Ca0.947Si2O2N2,Ce3+,0.05,Eu2+,0.003,298,520,0.28,0.37,44,,,340,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04461.x,mp-556884, icsd-413882,Journal of the American Ceramic Society,2011
+131,Ca2La0.92Hf2Al3O12Ce0.08,Ca2La0.92Hf2Al3O12,Ce3+,0.08,,,298,521,0.315,0.496,45.2,,,408,,,,,,https://doi.org/10.1016/j.jallcom.2020.155469,,,Journal of Alloys and Compounds,2020
+132,Ca2.79Si2O4N2Eu0.07,Ca2.79Si2O4N2,Eu2+,0.07,,,298,522,0.35,0.52,,,,330,,,,,,https://doi.org/10.1364/OE.19.00A331,,,Optics Express,2011
+133,Y1.97Mg1.99Al2Si2O12Eu0.01Ce0.03,Y1.97Mg1.99Al2Si2O12,Eu2+,0.01,Ce3+,0.03,298,522,0.305,0.365,,,,365,,,,411,464,https://doi.org/10.1021/acs.inorgchem.1c00317,,,Inorganic Chemistry,2021
+134,Ca2La0.88Hf2Al3O12Ce0.12,Ca2La0.88Hf2Al3O12,Ce3+,0.12,,,298,524,0.333,0.503,40.8,,,408,,,,,,https://doi.org/10.1016/j.jallcom.2020.155469,,,Journal of Alloys and Compounds,2020
+135,KVO3,KVO3,,,,,298,525,0.362,0.453,4,,,347,347,,,,525,https://doi.org/10.1038/nmat2244,"mp-18815,mp-1076633", icsd-1486 icsd-33706 icsd-44528,Nature Materials,2008
+136,RbVO3,RbVO3,,,,,298,525,0.316,0.424,79,,,347,347,,,,525,https://doi.org/10.1038/nmat2244,"mp-19031,mp-1076638", icsd-1488,Nature Materials,2008
+137,CsVO3,CsVO3,,,,,298,525,0.306,0.418,87,,,347,347,,,,525,https://doi.org/10.1038/nmat2244,mp-504651, icsd-1489,Nature Materials,2008
+138,Ca0.99Sr2Al2O6Ce0.01,Ca0.99Sr2Al2O6,Ce3+,0.01,,,423,526,0.3062,0.5142,,,,375,,,,,,https://doi.org/10.1016/j.jlumin.2018.10.119,mp-3393, icsd-71860 icsd-66062,Journal of Luminescence,2019
+139,Sr0.99LuAl2Si2O2N5Eu0.01,Sr0.99LuAl2Si2O2N5,Eu2+,0.01,,,298,526,0.319,0.535,38.1,23.7,423,365,305,,,,526,https://doi.org/10.1039/C9TC06932A,,,Journal of Materials Chemistry C,2020
+140,Ba2YB2O6ClEu0.03,Ba2YB2O6Cl,Eu3+,0.03,,,298,526,,,,,,365,365,,,1680,526,https://doi.org/10.1021/ic200988w,mp-866310, icsd-262072,Inorganic Chemistry,2011
+141,Ca4Y6Si6O25Ce0.1Eu0.05,Ca4Y6Si6O25,Ce3+,0.1,Eu2+,0.05,298,527,0.296,0.355,,,,356,,,,14.41,426,https://doi.org/10.1111/jace.13292,,,Journal of the American Ceramic Society,2014
+142,Ca4Y6Si6O25Ce0.1Eu0.07,Ca4Y6Si6O25,Ce3+,0.1,Eu2+,0.07,298,527,0.301,0.463,,,,356,,,,,,https://doi.org/10.1111/jace.13292,,,Journal of the American Ceramic Society,2014
+143,Ca4Y6Si6O25Ce0.1Eu0.1,Ca4Y6Si6O25,Ce3+,0.1,Eu2+,0.1,298,527,0.307,0.489,,,,356,,,,5.79,426,https://doi.org/10.1111/jace.13292,,,Journal of the American Ceramic Society,2014
+144,Ba0.88YSi2Al2O2N5Eu0.12,Ba0.88YSi2Al2O2N5,Eu2+,0.12,,,298,527,0.3164,0.5856,,,,362,362,,,,527,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+145,Ca3.95Y6Si6O25Eu0.05,Ca3.95Y6Si6O25,Eu2+,0.05,,,298,527,0.306,0.502,37.1,,,432,,,,,,https://doi.org/10.1039/C4RA08283D,,,RSC Advances,2015
+146,Ca3.94Y6Si6O25Eu0.05Mn0.01,Ca3.94Y6Si6O25,Eu2+,0.05,Mn2+,0.01,298,527,0.319,0.436,38.3,,,432,,,,,,https://doi.org/10.1039/C4RA08283D,,,RSC Advances,2015
+147,Ca3.92Y6Si6O25Eu0.05Mn0.03,Ca3.92Y6Si6O25,Eu2+,0.05,Mn2+,0.03,298,527,0.336,0.319,39.6,,,432,,,,,,https://doi.org/10.1039/C4RA08283D,,,RSC Advances,2015
+148,Ba0.82Sr0.1YSi2Al2O2N5Eu0.08,Ba0.82Sr0.1YSi2Al2O2N5,Eu2+,0.08,,,298,528,0.326,0.5767,,,,365,,,,,,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+149,Ca1.992MgSi2O7Eu0.004,Ca1.992MgSi2O7,Eu2+,0.004,,,298,528,0.36,0.55,,,,381,381,,,,528,https://doi.org/10.1063/1.2722670,"mp-6094,mp-559083,mp-677780", icsd-94146 icsd-85089 icsd-94142 icsd-160358 icsd-94145 icsd-94140 icsd-92773 icsd-50065 icsd-160352 icsd-50068 icsd-50070 icsd-163285 icsd-160353 icsd-94141 icsd-160355 icsd-160354 icsd-187931 icsd-50067 icsd-160356 icsd-34805 icsd-50071 icsd-100736 icsd-26683 icsd-192373 icsd-94144 icsd-50066 icsd-67691 icsd-39924 icsd-160357 icsd-50069 icsd-163286 icsd-158177 icsd-94143 icsd-85088 icsd-163287,Applied Physics Letters,2007
+150,Ca1.992Mg0.9Si2O7Eu0.004Mn0.1,Ca1.992Mg0.9Si2O7,Eu2+,0.004,Mn2+,0.1,298,528,0.37,0.55,,,,381,381,,,,528,https://doi.org/10.1063/1.2722670,"mp-6094,mp-559083,mp-677780", icsd-94146 icsd-85089 icsd-94142 icsd-160358 icsd-94145 icsd-94140 icsd-92773 icsd-50065 icsd-160352 icsd-50068 icsd-50070 icsd-163285 icsd-160353 icsd-94141 icsd-160355 icsd-160354 icsd-187931 icsd-50067 icsd-160356 icsd-34805 icsd-50071 icsd-100736 icsd-26683 icsd-192373 icsd-94144 icsd-50066 icsd-67691 icsd-39924 icsd-160357 icsd-50069 icsd-163286 icsd-158177 icsd-94143 icsd-85088 icsd-163287,Applied Physics Letters,2007
+151,Ca1.992Mg0.85Si2O7Eu0.004Mn0.15,Ca1.992Mg0.85Si2O7,Eu2+,0.004,Mn2+,0.15,298,528,0.38,0.53,,,,381,381,,,,528,https://doi.org/10.1063/1.2722670,"mp-6094,mp-559083,mp-677780", icsd-94146 icsd-85089 icsd-94142 icsd-160358 icsd-94145 icsd-94140 icsd-92773 icsd-50065 icsd-160352 icsd-50068 icsd-50070 icsd-163285 icsd-160353 icsd-94141 icsd-160355 icsd-160354 icsd-187931 icsd-50067 icsd-160356 icsd-34805 icsd-50071 icsd-100736 icsd-26683 icsd-192373 icsd-94144 icsd-50066 icsd-67691 icsd-39924 icsd-160357 icsd-50069 icsd-163286 icsd-158177 icsd-94143 icsd-85088 icsd-163287,Applied Physics Letters,2007
+152,Ca1.992Mg0.8Si2O7Eu0.004Mn0.2,Ca1.992Mg0.8Si2O7,Eu2+,0.004,Mn2+,0.2,298,528,0.4,0.49,,,,381,381,,,,528,https://doi.org/10.1063/1.2722670,"mp-6094,mp-559083,mp-677780", icsd-94146 icsd-85089 icsd-94142 icsd-160358 icsd-94145 icsd-94140 icsd-92773 icsd-50065 icsd-160352 icsd-50068 icsd-50070 icsd-163285 icsd-160353 icsd-94141 icsd-160355 icsd-160354 icsd-187931 icsd-50067 icsd-160356 icsd-34805 icsd-50071 icsd-100736 icsd-26683 icsd-192373 icsd-94144 icsd-50066 icsd-67691 icsd-39924 icsd-160357 icsd-50069 icsd-163286 icsd-158177 icsd-94143 icsd-85088 icsd-163287,Applied Physics Letters,2007
+153,Ca1.992Mg0.75Si2O7Eu0.004Mn0.25,Ca1.992Mg0.75Si2O7,Eu2+,0.004,Mn2+,0.25,298,528,0.42,0.47,,,,381,381,,,,528,https://doi.org/10.1063/1.2722670,"mp-6094,mp-559083,mp-677780", icsd-94146 icsd-85089 icsd-94142 icsd-160358 icsd-94145 icsd-94140 icsd-92773 icsd-50065 icsd-160352 icsd-50068 icsd-50070 icsd-163285 icsd-160353 icsd-94141 icsd-160355 icsd-160354 icsd-187931 icsd-50067 icsd-160356 icsd-34805 icsd-50071 icsd-100736 icsd-26683 icsd-192373 icsd-94144 icsd-50066 icsd-67691 icsd-39924 icsd-160357 icsd-50069 icsd-163286 icsd-158177 icsd-94143 icsd-85088 icsd-163287,Applied Physics Letters,2007
+154,Ca1.992Mg0.7Si2O7Eu0.004Mn0.3,Ca1.992Mg0.7Si2O7,Eu2+,0.004,Mn2+,0.3,298,528,0.45,0.46,,,,381,381,,,,528,https://doi.org/10.1063/1.2722670,"mp-6094,mp-559083,mp-677780", icsd-94146 icsd-85089 icsd-94142 icsd-160358 icsd-94145 icsd-94140 icsd-92773 icsd-50065 icsd-160352 icsd-50068 icsd-50070 icsd-163285 icsd-160353 icsd-94141 icsd-160355 icsd-160354 icsd-187931 icsd-50067 icsd-160356 icsd-34805 icsd-50071 icsd-100736 icsd-26683 icsd-192373 icsd-94144 icsd-50066 icsd-67691 icsd-39924 icsd-160357 icsd-50069 icsd-163286 icsd-158177 icsd-94143 icsd-85088 icsd-163287,Applied Physics Letters,2007
+155,Ca1.992Mg0.65Si2O7Eu0.004Mn0.35,Ca1.992Mg0.65Si2O7,Eu2+,0.004,Mn2+,0.35,298,528,0.45,0.44,,,,381,381,,,,528,https://doi.org/10.1063/1.2722670,"mp-6094,mp-559083,mp-677780", icsd-94146 icsd-85089 icsd-94142 icsd-160358 icsd-94145 icsd-94140 icsd-92773 icsd-50065 icsd-160352 icsd-50068 icsd-50070 icsd-163285 icsd-160353 icsd-94141 icsd-160355 icsd-160354 icsd-187931 icsd-50067 icsd-160356 icsd-34805 icsd-50071 icsd-100736 icsd-26683 icsd-192373 icsd-94144 icsd-50066 icsd-67691 icsd-39924 icsd-160357 icsd-50069 icsd-163286 icsd-158177 icsd-94143 icsd-85088 icsd-163287,Applied Physics Letters,2007
+156,Ca0.99Sr2Al2O6Ce0.01,Ca0.99Sr2Al2O6,Ce3+,0.01,,,383,529,0.3182,0.5301,,,,375,,,,,,https://doi.org/10.1016/j.jlumin.2018.10.119,mp-3393, icsd-71860 icsd-66062,Journal of Luminescence,2019
+157,Y1.96Mg1.99Al2Si2O12Eu0.01Ce0.04,Y1.96Mg1.99Al2Si2O12,Eu2+,0.01,Ce3+,0.04,298,529,0.322,0.378,,,,365,,,,372,464,https://doi.org/10.1021/acs.inorgchem.1c00317,,,Inorganic Chemistry,2021
+158,CsK2GdV2O8,CsK2GdV2O8,,,,,298,530,0.316,0.512,22.8,,,312,330,,,6330,530,https://doi.org/10.1021/ic500208h,,,Inorganic Chemistry,2014
+159,Ca5Mg4V6O24,Ca5Mg4V6O24,,,,,298,530,0.382,0.499,41.6,,388,320,350,,,2151,530,https://doi.org/10.1364/OE.20.004360,,,Optics Express,2012
+160,Ca2La0.85Hf2Al3O12Ce0.15,Ca2La0.85Hf2Al3O12,Ce3+,0.15,,,298,531,0.342,0.505,36.1,,,408,,,,,,https://doi.org/10.1016/j.jallcom.2020.155469,,,Journal of Alloys and Compounds,2020
+161,La3Si6N11Ce1,La3Si6N11,Ce3+,1,,,298,533,,,89.5,,563,450,,,,40.6,,https://doi.org/10.1016/j.actamat.2021.116813,mp-1019893, icsd-248709,Acta Materialia,2021
+162,La3Si6N11Ce1,La3Si6N11,Ce3+,1,,,323,533,,,,,,450,,,,41.2,,https://doi.org/10.1016/j.actamat.2021.116813,mp-1019893, icsd-248709,Acta Materialia,2021
+163,La3Si6N11Ce1,La3Si6N11,Ce3+,1,,,373,533,,,,,,450,,,,41.9,,https://doi.org/10.1016/j.actamat.2021.116813,mp-1019893, icsd-248709,Acta Materialia,2021
+164,La3Si6N11Ce1,La3Si6N11,Ce3+,1,,,423,533,,,,,,450,,,,42.2,,https://doi.org/10.1016/j.actamat.2021.116813,mp-1019893, icsd-248709,Acta Materialia,2021
+165,Ba0.84YSi2Al2O2N5Eu0.16,Ba0.84YSi2Al2O2N5,Eu2+,0.16,,,298,533,0.3477,0.5779,,,,359,359,,,,533,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+166,Ba0.72Sr0.2YSi2Al2O2N5Eu0.08,Ba0.72Sr0.2YSi2Al2O2N5,Eu2+,0.08,,,298,533,0.3418,0.5863,,,,365,,,,,,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+167,Na0.95ScSi2O6Eu0.05,Na0.95ScSi2O6,Eu2+,0.05,,,298,533,0.313,0.529,71.7,,,365,,,,,,https://doi.org/10.1021/jp4062225,mp-7074, icsd-74553 icsd-159541,Journal of Physical Chemistry C,2013
+168,Na0.95Sc0.97Si2O6Eu0.05Mn0.03,Na0.95Sc0.97Si2O6,Eu2+,0.05,Mn2+,0.03,298,533,0.334,0.512,42.7,,,365,,,,,,https://doi.org/10.1021/jp4062225,mp-7074, icsd-74553 icsd-159541,Journal of Physical Chemistry C,2013
+169,Na0.95Sc0.9Si2O6Eu0.05Mn0.1,Na0.95Sc0.9Si2O6,Eu2+,0.05,Mn2+,0.1,298,533,0.35,0.505,40,,,365,,,,,,https://doi.org/10.1021/jp4062225,mp-7074, icsd-74553 icsd-159541,Journal of Physical Chemistry C,2013
+170,Sr0.94Ga2S4Eu0.06,Sr0.94Ga2S4,Eu2+,0.06,,,298,534,0.32,0.63,,,400,400,,,,,534,https://doi.org/10.1016/S1002-0721(08)60010-1,"mp-14425,mp-1104810", icsd-635272 icsd-46019 icsd-635274,Journal of Rare Earths,2007
+171,Y3Al5O12Ce1,Y3Al5O12,Ce3+,1,,,298,535,,,93,,,450,,,,60.8,,https://doi.org/10.1016/j.actamat.2021.116813,mp-3050, icsd-67102 icsd-236589 icsd-280104 icsd-41144 icsd-74607 icsd-41145 icsd-67103 icsd-170157 icsd-20090 icsd-93635 icsd-16825 icsd-170158 icsd-31496 icsd-23848 icsd-93634,Acta Materialia,2021
+172,Y3Al5O12Ce1,Y3Al5O12,Ce3+,1,,,323,535,,,,,,450,,,,62.5,,https://doi.org/10.1016/j.actamat.2021.116813,mp-3050, icsd-67102 icsd-236589 icsd-280104 icsd-41144 icsd-74607 icsd-41145 icsd-67103 icsd-170157 icsd-20090 icsd-93635 icsd-16825 icsd-170158 icsd-31496 icsd-23848 icsd-93634,Acta Materialia,2021
+173,Y3Al5O12Ce1,Y3Al5O12,Ce3+,1,,,373,535,,,,,,450,,,,61.1,,https://doi.org/10.1016/j.actamat.2021.116813,mp-3050, icsd-67102 icsd-236589 icsd-280104 icsd-41144 icsd-74607 icsd-41145 icsd-67103 icsd-170157 icsd-20090 icsd-93635 icsd-16825 icsd-170158 icsd-31496 icsd-23848 icsd-93634,Acta Materialia,2021
+174,Y3Al5O12Ce1,Y3Al5O12,Ce3+,1,,,423,535,,,,,,450,,,,61.5,,https://doi.org/10.1016/j.actamat.2021.116813,mp-3050, icsd-67102 icsd-236589 icsd-280104 icsd-41144 icsd-74607 icsd-41145 icsd-67103 icsd-170157 icsd-20090 icsd-93635 icsd-16825 icsd-170158 icsd-31496 icsd-23848 icsd-93634,Acta Materialia,2021
+175,Sr0.995Si2O2N2Eu0.005,Sr0.995Si2O2N2,Eu2+,0.005,,,298,535,0.33,0.621,81,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+176,Sr0.99Si2O2N2Eu0.01,Sr0.99Si2O2N2,Eu2+,0.01,,,298,535,0.33,0.621,90,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+177,La2W3O12Eu0.05,La2W3O12,Eu3+,0.05,,,298,535,0.66,0.33,68,,,393,,,,660000,,https://doi.org/10.1016/S0022-4596(02)00221-9,mp-16808, icsd-193382 icsd-78180,Journal of Solid State Chemistry,2003
+178,Sr0.995Si2N2O2Eu0.005,Sr0.995Si2N2O2,Eu3+,0.005,,,298,535,0.33,0.621,81,,,450,,,,1150,535,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+179,Sr0.99Si2N2O2Eu0.01,Sr0.99Si2N2O2,Eu3+,0.01,,,298,535,0.33,0.621,90,,,450,,,,1150,535,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+180,Sr2.965LaNaP2SiO12Eu0.035,Sr2.965LaNaP2SiO12,Eu2+,0.035,,,298,535,0.317,0.388,,,,380,,,,,,https://doi.org/10.1016/j.ceramint.2016.08.163,,,Ceramics International,2016
+181,Sr2.95LaNaP2SiO12Eu0.05,Sr2.95LaNaP2SiO12,Eu2+,0.05,,,298,535,0.333,0.392,,,,380,,,,,,https://doi.org/10.1016/j.ceramint.2016.08.163,,,Ceramics International,2016
+182,Sr2.925LaNaP2SiO12Eu0.075,Sr2.925LaNaP2SiO12,Eu2+,0.075,,,298,535,0.334,0.383,,,,380,,,,,,https://doi.org/10.1016/j.ceramint.2016.08.163,,,Ceramics International,2016
+183,Sr2.9LaNaP2SiO12Eu0.1,Sr2.9LaNaP2SiO12,Eu2+,0.1,,,298,535,0.326,0.364,,,417,380,,,,,,https://doi.org/10.1016/j.ceramint.2016.08.163,,,Ceramics International,2016
+184,Sr0.83Ca0.15Si2O2N2Eu0.02,Sr0.83Ca0.15Si2O2N2,Eu2+,0.02,,,298,536,0.349,0.611,93,,,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+185,Sr0.98Si2N2O2Eu0.02,Sr0.98Si2N2O2,Eu3+,0.02,,,298,536,0.349,0.611,93,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+186,Ca0.99Sr2Al2O6Ce0.01,Ca0.99Sr2Al2O6,Ce3+,0.01,,,343,537,0.3352,0.5441,,,,375,,,,,,https://doi.org/10.1016/j.jlumin.2018.10.119,mp-3393, icsd-71860 icsd-66062,Journal of Luminescence,2019
+187,BaMgSi4O10Eu0.04Mn0.06,BaMgSi4O10,Eu2+,0.04,Mn2+,0.06,298,537,,,65,47,,360,,,,1310,464,https://doi.org/10.1021/acs.inorgchem.0c01803,,,Inorganic Chemistry,2020
+188,BaMgSi4O10Eu0.04Mn0.08,BaMgSi4O10,Eu2+,0.04,Mn2+,0.08,298,537,,,59,42,,360,,,,1260,464,https://doi.org/10.1021/acs.inorgchem.0c01803,,,Inorganic Chemistry,2020
+189,BaMgSi4O10Eu0.04Mn0.1,BaMgSi4O10,Eu2+,0.04,Mn2+,0.1,298,537,,,55,38.5,,360,,,,1190,464,https://doi.org/10.1021/acs.inorgchem.0c01803,,,Inorganic Chemistry,2020
+190,BaMgSi4O10Eu0.04Mn0.12,BaMgSi4O10,Eu2+,0.04,Mn2+,0.12,298,537,,,53,38.5,,360,,,,1140,464,https://doi.org/10.1021/acs.inorgchem.0c01803,,,Inorganic Chemistry,2020
+191,BaMgSi4O10Mn0.08,BaMgSi4O10,Mn2+,0.08,,,298,537,0.341,0.61,0.3,0.1,,440,,,,,537,https://doi.org/10.1021/acs.inorgchem.0c01803,,,Inorganic Chemistry,2020
+192,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,298,538,0.309,0.664,,,402,430,430,,,148.6,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+193,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,320,538,0.309,0.662,,,,430,,,,138.6,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+194,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,340,538,0.311,0.659,,,,430,,,,120.3,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+195,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,360,538,0.312,0.657,,,,430,,,,117,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+196,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,380,538,0.313,0.654,,,,430,,,,89.2,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+197,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,400,538,0.314,0.651,,,,430,,,,86.9,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+198,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,420,538,0.315,0.648,,,,430,,,,72.8,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+199,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,440,538,0.317,0.645,,,,430,,,,59.9,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+200,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,460,538,0.318,0.642,,,,430,,,,47.3,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+201,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,480,538,0.319,0.638,,,,430,,,,36.7,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+202,MgGa2S4Eu0.06,MgGa2S4,Eu2+,0.06,,,500,538,0.318,0.635,,,,430,,,,30,538,https://doi.org/10.1111/jace.12257,"mp-667323,mp-1246286", icsd-15350,Journal of the American Ceramic Society,2013
+203,Sr0.98Si2O2N2Eu0.02,Sr0.98Si2O2N2,Eu2+,0.02,,,298,538,0.337,0.619,91,,600,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+204,Sr0.93Ca0.05Si2O2N2Eu0.02,Sr0.93Ca0.05Si2O2N2,Eu2+,0.02,,,298,538,0.342,0.616,89,,,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+205,Sr0.88Ca0.1Si2O2N2Eu0.02,Sr0.88Ca0.1Si2O2N2,Eu2+,0.02,,,298,538,0.345,0.614,93,,,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+206,Sr0.93Ba0.05Si2O2N2Eu0.02,Sr0.93Ba0.05Si2O2N2,Eu2+,0.02,,,298,538,0.343,0.614,91,,,450,,,,,,https://doi.org/10.1021/cm802394w,mp-6764, icsd-419450 icsd-173758,Chemistry of Materials,2008
+207,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,298,538,0.309,0.664,,,402,430,430,,,148.6,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+208,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,320,538,0.309,0.662,,,,430,,,,138.6,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+209,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,340,538,0.311,0.659,,,,430,,,,120.3,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+210,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,360,538,0.312,0.657,,,,430,,,,117,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+211,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,380,538,0.313,0.654,,,,430,,,,89.2,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+212,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,400,538,0.314,0.651,,,,430,,,,86.9,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+213,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,420,538,0.315,0.648,,,,430,,,,72.8,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+214,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,440,538,0.317,0.645,,,,430,,,,59.9,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+215,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,460,538,0.318,0.642,,,,430,,,,47.3,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+216,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,480,538,0.319,0.638,,,,430,,,,36.7,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+217,Mg1.94Ga2S4Eu0.06,Mg1.94Ga2S4,Eu2+,0.06,,,500,538,0.318,0.635,,,,430,,,,30,538,https://doi.org/10.1111/jace.12257,,,Journal of the American Ceramic Society,2013
+218,SrZn1.96P2O8Mn0.04,SrZn1.96P2O8,Mn2+,0.04,,,298,538,0.46,0.46,,,,416,416,,,,538,https://doi.org/10.1063/1.2182026,mp-8810, icsd-68881,Applied Physics Letters,2006
+219,Sr0.98Si2N2O2Eu0.02,Sr0.98Si2N2O2,Eu3+,0.02,,,298,538,0.337,0.619,91,,600,450,,,,1150,538,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+220,Sr0.995Si2N2O2Eu0.02,Sr0.995Si2N2O2,Eu3+,0.02,,,298,538,0.342,0.616,89,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+221,Sr0.99Si2N2O2Eu0.02,Sr0.99Si2N2O2,Eu3+,0.02,,,298,538,0.345,0.614,93,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+222,Sr0.93Ba0.05Si2N2O2Eu0.02,Sr0.93Ba0.05Si2N2O2,Eu3+,0.02,,,298,538,0.343,0.614,91,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+223,Sr0.88Ba0.1Si2O2N2Eu0.02,Sr0.88Ba0.1Si2O2N2,Eu2+,0.02,,,298,539,0.351,0.61,90,,,450,,,,,,https://doi.org/10.1021/cm802394w,mp-6764, icsd-419450 icsd-173758,Chemistry of Materials,2008
+224,Sr0.88Ba0.10Si2N2O2Eu0.02,Sr0.88Ba0.10Si2N2O2,Eu3+,0.02,,,298,539,0.351,0.61,90,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+225,SrSi2O2N2Eu1,SrSi2O2N2,Eu2+,1,,,298,540,,,87.5,,610,450,,,,,,https://doi.org/10.1016/j.actamat.2021.116813,,,Acta Materialia,2021
+226,ZnGa2S4Eu0.005,ZnGa2S4,Eu2+,0.005,,,298,540,,,,,,460,,,,126,540,https://doi.org/10.1149/2.099205jes,"mp-5350,mp-34467,mp-1078049,mp-1094008,mp-1094002,mp-1094007,mp-1094013,mp-1094006,mp-1094011,mp-1094022,mp-1094014", icsd-659772 icsd-53604 icsd-656808 icsd-63242 icsd-635305 icsd-635295 icsd-635296 icsd-44886 icsd-635306 icsd-635300,Journal of The Electrochemical Society,2012
+227,ZnGa2S4Eu0.01,ZnGa2S4,Eu2+,0.01,,,298,540,,,,,,460,,,,115,540,https://doi.org/10.1149/2.099205jes,"mp-5350,mp-34467,mp-1078049,mp-1094008,mp-1094002,mp-1094007,mp-1094013,mp-1094006,mp-1094011,mp-1094022,mp-1094014", icsd-659772 icsd-53604 icsd-656808 icsd-63242 icsd-635305 icsd-635295 icsd-635296 icsd-44886 icsd-635306 icsd-635300,Journal of The Electrochemical Society,2012
+228,ZnGa2S4Eu0.03,ZnGa2S4,Eu2+,0.03,,,298,540,,,,,,460,,,,102,540,https://doi.org/10.1149/2.099205jes,"mp-5350,mp-34467,mp-1078049,mp-1094008,mp-1094002,mp-1094007,mp-1094013,mp-1094006,mp-1094011,mp-1094022,mp-1094014", icsd-659772 icsd-53604 icsd-656808 icsd-63242 icsd-635305 icsd-635295 icsd-635296 icsd-44886 icsd-635306 icsd-635300,Journal of The Electrochemical Society,2012
+229,ZnGa2S4Eu0.05,ZnGa2S4,Eu2+,0.05,,,298,540,0.299,0.673,,,407,460,460,,,91,540,https://doi.org/10.1149/2.099205jes,"mp-5350,mp-34467,mp-1078049,mp-1094008,mp-1094002,mp-1094007,mp-1094013,mp-1094006,mp-1094011,mp-1094022,mp-1094014", icsd-659772 icsd-53604 icsd-656808 icsd-63242 icsd-635305 icsd-635295 icsd-635296 icsd-44886 icsd-635306 icsd-635300,Journal of The Electrochemical Society,2012
+230,ZnGa2S4Eu0.07,ZnGa2S4,Eu2+,0.07,,,298,540,,,,,,460,,,,85,540,https://doi.org/10.1149/2.099205jes,"mp-5350,mp-34467,mp-1078049,mp-1094008,mp-1094002,mp-1094007,mp-1094013,mp-1094006,mp-1094011,mp-1094022,mp-1094014", icsd-659772 icsd-53604 icsd-656808 icsd-63242 icsd-635305 icsd-635295 icsd-635296 icsd-44886 icsd-635306 icsd-635300,Journal of The Electrochemical Society,2012
+231,ZnGa2S4Eu0.1,ZnGa2S4,Eu2+,0.1,,,298,540,,,,,,460,,,,79,540,https://doi.org/10.1149/2.099205jes,"mp-5350,mp-34467,mp-1078049,mp-1094008,mp-1094002,mp-1094007,mp-1094013,mp-1094006,mp-1094011,mp-1094022,mp-1094014", icsd-659772 icsd-53604 icsd-656808 icsd-63242 icsd-635305 icsd-635295 icsd-635296 icsd-44886 icsd-635306 icsd-635300,Journal of The Electrochemical Society,2012
+232,Y1.9Si4N6CCe0.05,Y1.9Si4N6C,Ce3+,0.05,,,298,540,0.4,0.53,,,468,384,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04571.x,mp-6353, icsd-162422 icsd-155158 icsd-162421,Journal of the American Ceramic Society,2011
+233,Ba3Y0.5P3O12Ce0.25Tb0.25,Ba3Y0.5P3O12,Ce3+,0.25,Tb3+,0.25,298,540,0.323,0.534,,,,254,,,,,,https://doi.org/10.1364/OE.19.0000A1,,,Optics Express,2010
+234,Ba3La0.8P3O12Tb0.2,Ba3La0.8P3O12,Tb3+,0.2,,,298,540,0.311,0.571,,,,377,,,,1050000,434,https://doi.org/10.1021/acs.inorgchem.7b00737,,,Inorganic Chemistry,2017
+235,Ba3La0.79P3O12Tb0.2Sm0.01,Ba3La0.79P3O12,Tb3+,0.2,Sm3+,0.01,298,540,0.385,0.527,,,,377,,,,,,https://doi.org/10.1021/acs.inorgchem.7b00737,,,Inorganic Chemistry,2017
+236,Ba3La0.78P3O12Tb0.2Sm0.02,Ba3La0.78P3O12,Tb3+,0.2,Sm3+,0.02,298,540,0.419,0.506,,,,377,,,,,,https://doi.org/10.1021/acs.inorgchem.7b00737,,,Inorganic Chemistry,2017
+237,Ba3La0.77P3O12Tb0.2Sm0.03,Ba3La0.77P3O12,Tb3+,0.2,Sm3+,0.03,298,540,0.456,0.476,,,,377,,,,,,https://doi.org/10.1021/acs.inorgchem.7b00737,,,Inorganic Chemistry,2017
+238,Ba3La0.75P3O12Tb0.2Sm0.05,Ba3La0.75P3O12,Tb3+,0.2,Sm3+,0.05,298,540,0.477,0.466,,,,377,,,,,,https://doi.org/10.1021/acs.inorgchem.7b00737,,,Inorganic Chemistry,2017
+239,Ba3La0.85P3O12Tb0.1Sm0.05,Ba3La0.85P3O12,Tb3+,0.1,Sm3+,0.05,298,540,0.503,0.447,,,,377,,,,,,https://doi.org/10.1021/acs.inorgchem.7b00737,,,Inorganic Chemistry,2017
+240,Ca0.945Si2O2N2Ce0.05Eu0.005,Ca0.945Si2O2N2,Ce3+,0.05,Eu2+,0.005,298,540,0.37,0.49,,,,350,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04461.x,mp-556884, icsd-413882,Journal of the American Ceramic Society,2011
+241,BaLi2Al2Si2N6Eu0.01,BaLi2Al2Si2N6,Eu2+,0.01,,,298,540,0.3,0.64,,,538,395,395,,,,540,https://doi.org/10.1021/acs.chemmater.5b02702,,,Chemistry of Materials,2015
+242,Sr0.96Si2O2N2Eu0.04,Sr0.96Si2O2N2,Eu2+,0.04,,,298,541,0.352,0.611,87,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+243,NaGdW2O8Tb0.05,NaGdW2O8,Tb3+,0.05,,,298,541,0.21,0.56,,,,380,380,371,361,,541,https://doi.org/10.1039/C3CE41712C,mp-1220735,,CrystEngComm,2014
+244,CaGd1.92ZnO5Tb0.04,CaGd1.92ZnO5,Tb3+,0.04,,,298,541,0.305,0.556,,,,317,317,,,1370000,541,https://doi.org/10.1039/C4RA15376F,,,RSC Advances,2015
+245,Sr0.96Si2N2O2Eu0.04,Sr0.96Si2N2O2,Eu3+,0.04,,,298,541,0.352,0.611,87,,,450,,,,900,541,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+246,K0.4Na0.6Sr0.925Eu0.005Tb0.07,K0.4Na0.6Sr0.925,Eu2+,0.005,Tb3+,0.07,298,542,0.23,0.435,,,,365,,,,660,472,https://doi.org/10.1039/C3TC30128A,,,Journal of Materials Chemistry C,2013
+247,K0.4Na0.6Sr0.905Eu0.005Tb0.09,K0.4Na0.6Sr0.905,Eu2+,0.005,Tb3+,0.09,298,542,0.232,0.42,,,,365,363,,,650,472,https://doi.org/10.1039/C3TC30128A,,,Journal of Materials Chemistry C,2013
+248,K0.4Na0.6Sr0.985Eu0.005Tb0.11,K0.4Na0.6Sr0.985,Eu2+,0.005,Tb3+,0.11,298,542,,,,,,365,,,,560,472,https://doi.org/10.1039/C3TC30128A,,,Journal of Materials Chemistry C,2013
+249,Ba3Lu1.54B6O15Ce0.03Tb0.2,Ba3Lu1.54B6O15,Ce3+,0.03,Tb3+,0.2,298,542,0.204,0.239,51,,430,373,,,,,542,https://doi.org/10.1016/j.jallcom.2019.02.095,,,Journal of Alloys and Compounds,2019
+250,Ba3Lu1.54B6O15Ce0.03Tb0.2,Ba3Lu1.54B6O15,Ce3+,0.03,Tb3+,0.2,343,542,0.257,0.253,,,,373,,,,,,https://doi.org/10.1016/j.jallcom.2019.02.095,,,Journal of Alloys and Compounds,2019
+251,Ba3Lu1.54B6O15Ce0.03Tb0.2,Ba3Lu1.54B6O15,Ce3+,0.03,Tb3+,0.2,383,542,0.21,0.257,,,,373,,,,,,https://doi.org/10.1016/j.jallcom.2019.02.095,,,Journal of Alloys and Compounds,2019
+252,Ba3Lu1.54B6O15Ce0.03Tb0.2,Ba3Lu1.54B6O15,Ce3+,0.03,Tb3+,0.2,423,542,0.211,0.258,,,,373,,,,,,https://doi.org/10.1016/j.jallcom.2019.02.095,,,Journal of Alloys and Compounds,2019
+253,Ba3Lu1.54B6O15Ce0.03Tb0.2,Ba3Lu1.54B6O15,Ce3+,0.03,Tb3+,0.2,463,542,0.214,0.259,,,,373,,,,,,https://doi.org/10.1016/j.jallcom.2019.02.095,,,Journal of Alloys and Compounds,2019
+254,Ba3Lu1.54B6O15Ce0.03Tb0.2,Ba3Lu1.54B6O15,Ce3+,0.03,Tb3+,0.2,503,542,0.219,0.262,,,,373,,,,,,https://doi.org/10.1016/j.jallcom.2019.02.095,,,Journal of Alloys and Compounds,2019
+255,Ba3Lu1.34B6O15Ce0.03Tb0.3,Ba3Lu1.34B6O15,Ce3+,0.03,Tb3+,0.3,298,542,0.208,0.254,,,,373,,,,,542,https://doi.org/10.1016/j.jallcom.2019.02.095,,,Journal of Alloys and Compounds,2019
+256,NaGdF4Ce0.2Tb0.05,NaGdF4,Ce3+,0.2,Tb3+,0.05,298,542,,,30,,,262,262,,,,542,https://doi.org/10.1021/cm070865c,mp-1221034,,Chemistry of Materials,2007
+257,Ca8MgSi4O16Cl2Tb0.02,Ca8MgSi4O16Cl2,Tb3+,0.02,,,298,542,0.313,0.455,,,,359,,,,,542,https://doi.org/10.1016/j.jlumin.2011.09.029,mp-686598,,Journal of Luminescence,2012
+258,Ca8MgSi4O16Cl2Tb0.02Ce0.002,Ca8MgSi4O16Cl2,Tb3+,0.02,Ce3+,0.002,298,542,0.302,0.423,,,,359,,,,,542,https://doi.org/10.1016/j.jlumin.2011.09.029,mp-686598,,Journal of Luminescence,2012
+259,Ca8MgSi4O16Cl2Tb0.02Ce0.004,Ca8MgSi4O16Cl2,Tb3+,0.02,Ce3+,0.004,298,542,0.295,0.4,,,,359,,,,,542,https://doi.org/10.1016/j.jlumin.2011.09.029,mp-686598,,Journal of Luminescence,2012
+260,Ca8MgSi4O16Cl2Tb0.02Ce0.006,Ca8MgSi4O16Cl2,Tb3+,0.02,Ce3+,0.006,298,542,0.292,0.371,,,,359,,,,,542,https://doi.org/10.1016/j.jlumin.2011.09.029,mp-686598,,Journal of Luminescence,2012
+261,Ca8MgSi4O16Cl2Tb0.02Ce0.008,Ca8MgSi4O16Cl2,Tb3+,0.02,Ce3+,0.008,298,542,0.285,0.34,32.8,,,359,,,,,542,https://doi.org/10.1016/j.jlumin.2011.09.029,mp-686598,,Journal of Luminescence,2012
+262,Ca8MgSi4O16Cl2Tb0.02Ce0.009,Ca8MgSi4O16Cl2,Tb3+,0.02,Ce3+,0.009,298,542,0.243,0.236,,,,359,,,,,542,https://doi.org/10.1016/j.jlumin.2011.09.029,mp-686598,,Journal of Luminescence,2012
+263,Ca4Y6Si6O25Ce0.02Tb0.02,Ca4Y6Si6O25,Ce3+,0.02,Tb3+,0.02,298,542,0.201,0.173,,,,352,,,,,542,https://doi.org/10.1016/j.matchemphys.2011.05.078,,,Materials Chemistry and Physics,2011
+264,Ca4Y6Si6O25Ce0.02Tb0.04,Ca4Y6Si6O25,Ce3+,0.02,Tb3+,0.04,298,542,0.225,0.249,,,,352,,,,,542,https://doi.org/10.1016/j.matchemphys.2011.05.078,,,Materials Chemistry and Physics,2011
+265,Ca4Y6Si6O25Ce0.02Tb0.06,Ca4Y6Si6O25,Ce3+,0.02,Tb3+,0.06,298,542,0.235,0.268,,,,352,,,,,542,https://doi.org/10.1016/j.matchemphys.2011.05.078,,,Materials Chemistry and Physics,2011
+266,Ca4Y6Si6O25Ce0.02Tb0.08,Ca4Y6Si6O25,Ce3+,0.02,Tb3+,0.08,298,542,0.278,0.353,49.1,,,352,352,,,,542,https://doi.org/10.1016/j.matchemphys.2011.05.078,,,Materials Chemistry and Physics,2011
+267,Ca4Y6Si6O25Ce0.02Tb0.1,Ca4Y6Si6O25,Ce3+,0.02,Tb3+,0.1,298,542,0.272,0.399,,,,352,,,,,542,https://doi.org/10.1016/j.matchemphys.2011.05.078,,,Materials Chemistry and Physics,2011
+268,Sr0.73Ca0.25Si2O2N2Eu0.02,Sr0.73Ca0.25Si2O2N2,Eu2+,0.02,,,298,542,0.351,0.608,93,,,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+269,Ca2V2O7,Ca2V2O7,,,,,298,542,0.494,0.439,,,,350,,,,,542,https://doi.org/10.1021/jp910884c,mp-27614, icsd-20609 icsd-421266,Journal of Physical Chemistry C,2010
+270,Sr2V2O7,Sr2V2O7,,,,,298,542,0.393,0.488,8,,,350,,,,,542,https://doi.org/10.1021/jp910884c,"mp-19660,mp-19368", icsd-10330 icsd-20401 icsd-72200,Journal of Physical Chemistry C,2010
+271,Ca2Al3O6FCe0.08Tb0.005,Ca2Al3O6F,Ce3+,0.08,Tb3+,0.005,298,542,0.219,0.271,,,,350,350,,,41.69,413,https://doi.org/10.1021/jp304722z,mp-1227590,,Journal of Physical Chemistry C,2012
+272,Ca2Al3O6FCe0.08Tb0.01,Ca2Al3O6F,Ce3+,0.08,Tb3+,0.01,298,542,0.249,0.361,,,,350,350,,,22.63,413,https://doi.org/10.1021/jp304722z,mp-1227590,,Journal of Physical Chemistry C,2012
+273,Ca2Al3O6FCe0.08Tb0.03,Ca2Al3O6F,Ce3+,0.08,Tb3+,0.03,298,542,0.281,0.444,,,,350,350,,,13.58,413,https://doi.org/10.1021/jp304722z,mp-1227590,,Journal of Physical Chemistry C,2012
+274,Ca2Al3O6FCe0.08Tb0.05,Ca2Al3O6F,Ce3+,0.08,Tb3+,0.05,298,542,0.287,0.455,,,,350,350,,,12.32,413,https://doi.org/10.1021/jp304722z,mp-1227590,,Journal of Physical Chemistry C,2012
+275,Ca2Al3O6FCe0.08Tb0.1,Ca2Al3O6F,Ce3+,0.08,Tb3+,0.1,298,542,0.292,0.473,,,,350,350,,,10.61,413,https://doi.org/10.1021/jp304722z,mp-1227590,,Journal of Physical Chemistry C,2012
+276,Ca2Al3O6FCe0.08Tb0.2,Ca2Al3O6F,Ce3+,0.08,Tb3+,0.2,298,542,0.287,0.48,,,,350,350,,,9.55,413,https://doi.org/10.1021/jp304722z,mp-1227590,,Journal of Physical Chemistry C,2012
+277,Na3Sc1.93P3O12Ce0.03Tb0.005,Na3Sc1.93P3O12,Ce3+,0.03,Tb3+,0.005,298,542,0.205,0.209,48.6,,,320,320,,,20.89,542,https://doi.org/10.1016/j.dyepig.2017.12.051,"mp-16956,mp-1221280,mp-555608", icsd-65406 icsd-20740,Dyes and Pigments,2018
+278,Na3Sc1.92P3O12Ce0.03Tb0.01,Na3Sc1.92P3O12,Ce3+,0.03,Tb3+,0.01,298,542,0.249,0.339,41,,,320,320,,,18.58,542,https://doi.org/10.1016/j.dyepig.2017.12.051,"mp-16956,mp-1221280,mp-555608", icsd-65406 icsd-20740,Dyes and Pigments,2018
+279,Na3Sc1.88P3O12Ce0.03Tb0.03,Na3Sc1.88P3O12,Ce3+,0.03,Tb3+,0.03,298,542,0.277,0.493,33.7,,,320,320,,,17.17,542,https://doi.org/10.1016/j.dyepig.2017.12.051,"mp-16956,mp-1221280,mp-555608", icsd-65406 icsd-20740,Dyes and Pigments,2018
+280,Na3Sc1.84P3O12Ce0.03Tb0.05,Na3Sc1.84P3O12,Ce3+,0.03,Tb3+,0.05,298,542,0.29,0.547,53.5,,,320,320,,,15.99,542,https://doi.org/10.1016/j.dyepig.2017.12.051,"mp-16956,mp-1221280,mp-555608", icsd-65406 icsd-20740,Dyes and Pigments,2018
+281,Na3Sc1.74P3O12Ce0.03Tb0.1,Na3Sc1.74P3O12,Ce3+,0.03,Tb3+,0.1,298,542,0.3,0.576,65,,,320,320,,,9.88,542,https://doi.org/10.1016/j.dyepig.2017.12.051,"mp-16956,mp-1221280,mp-555608", icsd-65406 icsd-20740,Dyes and Pigments,2018
+282,Na3Sc1.54P3O12Ce0.03Tb0.2,Na3Sc1.54P3O12,Ce3+,0.03,Tb3+,0.2,298,542,0.299,0.593,25.1,,,320,320,,,5.09,542,https://doi.org/10.1016/j.dyepig.2017.12.051,"mp-16956,mp-1221280,mp-555608", icsd-65406 icsd-20740,Dyes and Pigments,2018
+283,Na2Y2B2O7Ce0.03Tb0.025,Na2Y2B2O7,Ce3+,0.03,Tb3+,0.025,298,542,0.2502,0.415,61.6,,,366,,,,83,422,https://doi.org/10.1016/j.jssc.2014.02.002,mp-6331, icsd-191128 icsd-245226 icsd-99206,Journal of Solid State Chemistry,2014
+284,Na2Y2B2O7Ce0.03Tb0.05,Na2Y2B2O7,Ce3+,0.03,Tb3+,0.05,298,542,0.2781,0.5042,69.3,,,366,,,,80,422,https://doi.org/10.1016/j.jssc.2014.02.002,mp-6331, icsd-191128 icsd-245226 icsd-99206,Journal of Solid State Chemistry,2014
+285,Na2Y2B2O7Ce0.03Tb0.075,Na2Y2B2O7,Ce3+,0.03,Tb3+,0.075,298,542,0.2898,0.5386,71.7,,,366,,,,78,422,https://doi.org/10.1016/j.jssc.2014.02.002,mp-6331, icsd-191128 icsd-245226 icsd-99206,Journal of Solid State Chemistry,2014
+286,Na2Y2B2O7Ce0.03Tb0.1,Na2Y2B2O7,Ce3+,0.03,Tb3+,0.1,298,542,0.2983,0.5644,75.2,,,366,,,,76,422,https://doi.org/10.1016/j.jssc.2014.02.002,mp-6331, icsd-191128 icsd-245226 icsd-99206,Journal of Solid State Chemistry,2014
+287,Na2Y2B2O7Ce0.03Tb0.125,Na2Y2B2O7,Ce3+,0.03,Tb3+,0.125,298,542,0.3294,0.5811,59,,,366,,,,73,422,https://doi.org/10.1016/j.jssc.2014.02.002,mp-6331, icsd-191128 icsd-245226 icsd-99206,Journal of Solid State Chemistry,2014
+288,Na2Y1.95B2O7Tb0.05,Na2Y1.95B2O7,Tb3+,0.05,,,298,542,,,,,,380,250,,,150000,542,https://doi.org/10.1039/C3DT52214H,mp-6331, icsd-191128 icsd-245226 icsd-99206,Dalton Transactions,2013
+289,Na2Y1.94B2O7Tb0.05Eu0.01,Na2Y1.94B2O7,Tb3+,0.05,Eu3+,0.01,298,542,,,,,,380,275,,,141000,542,https://doi.org/10.1039/C3DT52214H,mp-6331, icsd-191128 icsd-245226 icsd-99206,Dalton Transactions,2013
+290,Na2Y1.93B2O7Tb0.05Eu0.02,Na2Y1.93B2O7,Tb3+,0.05,Eu3+,0.02,298,542,,,,,,380,275,,,132800,542,https://doi.org/10.1039/C3DT52214H,mp-6331, icsd-191128 icsd-245226 icsd-99206,Dalton Transactions,2013
+291,Na2Y1.92B2O7Tb0.05Eu0.03,Na2Y1.92B2O7,Tb3+,0.05,Eu3+,0.03,298,542,,,,,,380,275,,,126000,542,https://doi.org/10.1039/C3DT52214H,mp-6331, icsd-191128 icsd-245226 icsd-99206,Dalton Transactions,2013
+292,Y10Al2Si3O18N4Ce0.05Tb0.02,Y10Al2Si3O18N4,Ce3+,0.05,Tb3+,0.02,298,542,0.211,0.382,,,,365,365,,,,542,https://doi.org/10.1039/C3CP51854J,,,Physical Chemistry Chemical Physics,2013
+293,Sr0.96Si2N2O2Eu0.02,Sr0.96Si2N2O2,Eu3+,0.02,,,298,542,0.351,0.608,93,,557,450,,,,1000,542,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+294,Ca0.9725Al2SiO7Ce0.0075Tb0.02,Ca0.9725Al2SiO7,Ce3+,0.0075,Tb3+,0.02,298,542,0.316,0.336,,,,352,352,,,,542,https://doi.org/10.1149/1.3097191,,,Journal of The Electrochemical Society,2009
+295,La1.92LiSbO6Ho0.08,La1.92LiSbO6,Ho3+,0.08,,,298,542,0.266,0.717,,,,454,454,,,,542,https://doi.org/10.1016/j.jallcom.2019.02.132,mp-6674, icsd-72202 icsd-69192,Journal of Alloys and Compounds,2019
+296,Ca3Y0.5Ga3B4O15Tb0.5,Ca3Y0.5Ga3B4O15,Tb3+,0.5,,,298,542,0.35,0.58,,,,369,356,369,380,1470000,542,https://doi.org/10.1039/C6DT04304F,mp-695475,,Dalton Transactions,2017
+297,Ca3Y0.48Ga3B4O15Tb0.5Eu0.02,Ca3Y0.48Ga3B4O15,Tb3+,0.5,Eu3+,0.02,298,542,0.4,0.53,,,,369,,,,1170000,542,https://doi.org/10.1039/C6DT04304F,mp-695475,,Dalton Transactions,2017
+298,Ca3Y0.46Ga3B4O15Tb0.5Eu0.04,Ca3Y0.46Ga3B4O15,Tb3+,0.5,Eu3+,0.04,298,542,0.44,0.5,,,,369,,,,980000,542,https://doi.org/10.1039/C6DT04304F,mp-695475,,Dalton Transactions,2017
+299,GdF3Dy0.02Tb0.01,GdF3,Dy3+,0.02,Tb3+,0.01,298,542,0.27,0.415,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+300,GdF3Dy0.02Tb0.02,GdF3,Dy3+,0.02,Tb3+,0.02,298,542,0.271,0.347,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+301,GdF3Dy0.02Tb0.03,GdF3,Dy3+,0.02,Tb3+,0.03,298,542,0.281,0.484,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+302,GdF3Dy0.02Tb0.03,GdF3,Dy3+,0.02,Tb3+,0.03,298,542,0.273,0.369,,,,386,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+303,GdF3Dy0.02Tb0.04,GdF3,Dy3+,0.02,Tb3+,0.04,298,542,0.283,0.503,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+304,GdF3Dy0.02Tb0.04,GdF3,Dy3+,0.02,Tb3+,0.04,298,542,0.274,0.391,,,,386,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+305,GdF3Dy0.02Tb0.06,GdF3,Dy3+,0.02,Tb3+,0.06,298,542,0.286,0.515,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+306,GdF3Dy0.02Tb0.06,GdF3,Dy3+,0.02,Tb3+,0.06,298,542,0.278,0.411,,,,386,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+307,GdF3Dy0.02Tb0.07,GdF3,Dy3+,0.02,Tb3+,0.07,298,542,0.276,0.42,,,,386,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+308,GdF3Dy0.02Tb0.08,GdF3,Dy3+,0.02,Tb3+,0.08,298,542,0.281,0.441,,,,386,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+309,GdF3Tb0.03,GdF3,Tb3+,0.03,,,298,542,0.291,0.547,,,,272,272,,,,542,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+310,GdF3Tb0.03,GdF3,Tb3+,0.03,,,298,542,0.287,0.522,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+311,GdF3Tb0.03Eu0.01,GdF3,Tb3+,0.03,Eu3+,0.01,298,542,0.375,0.489,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+312,GdF3Tb0.03Eu0.01,GdF3,Tb3+,0.03,Eu3+,0.01,298,542,0.313,0.492,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+313,GdF3Tb0.03Eu0.02,GdF3,Tb3+,0.03,Eu3+,0.02,298,542,0.335,0.473,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+314,GdF3Tb0.03Eu0.03,GdF3,Tb3+,0.03,Eu3+,0.03,298,542,0.358,0.461,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+315,GdF3Tb0.02,GdF3,Tb3+,0.02,,,298,542,0.282,0.515,,,,272,272,366,,,542,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+316,GdF3Tb0.02Dy0.03,GdF3,Tb3+,0.02,Dy3+,0.03,298,542,0.277,0.454,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+317,GdF3Tb0.02Dy0.04,GdF3,Tb3+,0.02,Dy3+,0.04,298,542,0.275,0.45,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+318,GdF3Tb0.02Dy0.06,GdF3,Tb3+,0.02,Dy3+,0.06,298,542,0.265,0.415,,,,272,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+319,GdF3Eu0.03Tb0.01,GdF3,Eu3+,0.03,Tb3+,0.01,298,542,0.292,0.353,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+320,GdF3Eu0.03Tb0.02,GdF3,Eu3+,0.03,Tb3+,0.02,298,542,0.34,0.439,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+321,GdF3Eu0.03Tb0.05,GdF3,Eu3+,0.03,Tb3+,0.05,298,542,0.375,0.462,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+322,GdF3Eu0.03Tb0.06,GdF3,Eu3+,0.03,Tb3+,0.06,298,542,0.386,0.464,,,,349,,,,,,https://doi.org/10.1039/C6CP03989H,mp-972965,,Physical Chemistry Chemical Physics,2016
+323,NaGdF4Tb0.04,NaGdF4,Tb3+,0.04,,,298,542,0.256,0.345,,,,380,380,371,360,2282.86,542,https://doi.org/10.1039/C5CE01118C,mp-1221034,,CrystEngComm,2015
+324,NaGdF4Tb0.04Eu0.01,NaGdF4,Tb3+,0.04,Eu3+,0.01,298,542,0.274,0.338,,,,380,380,371,360,2095.12,542,https://doi.org/10.1039/C5CE01118C,mp-1221034,,CrystEngComm,2015
+325,NaGdF4Tb0.04Eu0.03,NaGdF4,Tb3+,0.04,Eu3+,0.03,298,542,0.286,0.323,,,,380,380,371,360,1869.24,542,https://doi.org/10.1039/C5CE01118C,mp-1221034,,CrystEngComm,2015
+326,NaGdF4Tb0.04Eu0.05,NaGdF4,Tb3+,0.04,Eu3+,0.05,298,542,0.304,0.317,,,,380,380,371,360,1646.76,542,https://doi.org/10.1039/C5CE01118C,mp-1221034,,CrystEngComm,2015
+327,Ca5P3O12ClEu0.02Tb0.08,Ca5P3O12Cl,Eu2+,0.02,Tb3+,0.08,298,542,0.241,0.344,29.3,,,400,400,,,108,458,https://doi.org/10.1039/C5TC03482E,"mp-555164,mp-39460,mp-554236", icsd-2789 icsd-24237 icsd-184825 icsd-184824,Journal of Materials Chemistry C,2016
+328,Ca5P3O12ClEu0.02Tb0.1,Ca5P3O12Cl,Eu2+,0.02,Tb3+,0.1,298,542,0.284,0.484,32.5,,,400,400,,,98,458,https://doi.org/10.1039/C5TC03482E,"mp-555164,mp-39460,mp-554236", icsd-2789 icsd-24237 icsd-184825 icsd-184824,Journal of Materials Chemistry C,2016
+329,Ca5P3O12ClCe0.08Tb0.02,Ca5P3O12Cl,Ce3+,0.08,Tb3+,0.02,298,542,0.244,0.349,56.1,,,340,,,,,,https://doi.org/10.1039/C5TC03482E,"mp-555164,mp-39460,mp-554236", icsd-2789 icsd-24237 icsd-184825 icsd-184824,Journal of Materials Chemistry C,2016
+330,Ca5P3O12ClCe0.08Tb0.03,Ca5P3O12Cl,Ce3+,0.08,Tb3+,0.03,298,542,0.264,0.364,60.8,,,340,,,,,,https://doi.org/10.1039/C5TC03482E,"mp-555164,mp-39460,mp-554236", icsd-2789 icsd-24237 icsd-184825 icsd-184824,Journal of Materials Chemistry C,2016
+331,Ca5P3O12ClCe0.08Tb0.05,Ca5P3O12Cl,Ce3+,0.08,Tb3+,0.05,298,542,0.275,0.391,74.4,,,340,,,,,,https://doi.org/10.1039/C5TC03482E,"mp-555164,mp-39460,mp-554236", icsd-2789 icsd-24237 icsd-184825 icsd-184824,Journal of Materials Chemistry C,2016
+332,Ca5P3O12ClCe0.08Tb0.08,Ca5P3O12Cl,Ce3+,0.08,Tb3+,0.08,298,542,0.305,0.428,87.6,,,340,,,,,,https://doi.org/10.1039/C5TC03482E,"mp-555164,mp-39460,mp-554236", icsd-2789 icsd-24237 icsd-184825 icsd-184824,Journal of Materials Chemistry C,2016
+333,Ca5P3O12ClCe0.08Tb0.1,Ca5P3O12Cl,Ce3+,0.08,Tb3+,0.1,298,542,0.344,0.487,85.3,,,340,,,,,,https://doi.org/10.1039/C5TC03482E,"mp-555164,mp-39460,mp-554236", icsd-2789 icsd-24237 icsd-184825 icsd-184824,Journal of Materials Chemistry C,2016
+334,Ca2LuHf2Al3O12Ce0.02Tb0.2,Ca2LuHf2Al3O12,Ce3+,0.02,Tb3+,0.2,298,543,0.2458,0.3799,,,,408,408,336,265,,543,https://doi.org/10.1016/j.jcis.2021.05.108,,,Journal of Colloid and Interface Science,2021
+335,Ca2LuHf2Al3O12Ce0.02Tb0.4,Ca2LuHf2Al3O12,Ce3+,0.02,Tb3+,0.4,298,543,0.293,0.4342,,,,408,408,336,265,,543,https://doi.org/10.1016/j.jcis.2021.05.108,,,Journal of Colloid and Interface Science,2021
+336,Ca2LuHf2Al3O12Ce0.02Tb0.5,Ca2LuHf2Al3O12,Ce3+,0.02,Tb3+,0.5,298,543,0.31,0.4549,77.1,37,460,408,408,336,265,,543,https://doi.org/10.1016/j.jcis.2021.05.108,,,Journal of Colloid and Interface Science,2021
+337,Ca2LuHf2Al3O12Ce0.02Tb0.6,Ca2LuHf2Al3O12,Ce3+,0.02,Tb3+,0.6,298,543,0.3246,0.475,,,,408,408,336,265,,543,https://doi.org/10.1016/j.jcis.2021.05.108,,,Journal of Colloid and Interface Science,2021
+338,Ca2LuHf2Al3O12Ce0.02Tb0.7,Ca2LuHf2Al3O12,Ce3+,0.02,Tb3+,0.7,298,543,0.3336,0.4919,,,,408,408,336,265,,543,https://doi.org/10.1016/j.jcis.2021.05.108,,,Journal of Colloid and Interface Science,2021
+339,Sr0.48Ca0.5Si2O2N2Eu0.02,Sr0.48Ca0.5Si2O2N2,Eu2+,0.02,,,298,543,0.354,0.601,92,,557,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+340,KVO3,KVO3,,,,,298,543,0.362,0.453,4,,,350,,,,,543,https://doi.org/10.1021/jp910884c,"mp-18815,mp-1076633", icsd-1486 icsd-33706 icsd-44528,Journal of Physical Chemistry C,2010
+341,Ca9La0.94P5O24SiF2Ce0.05Tb0.01,Ca9La0.94P5O24SiF2,Ce3+,0.05,Tb3+,0.01,298,543,,,22.6,,,275,275,,,350.54,403,https://doi.org/10.1016/j.optcom.2014.09.010,,,Optics Communications,2015
+342,Ca9La0.92P5O24SiF2Ce0.05Tb0.03,Ca9La0.92P5O24SiF2,Ce3+,0.05,Tb3+,0.03,298,543,,,21.7,,,275,275,,,,403,https://doi.org/10.1016/j.optcom.2014.09.010,,,Optics Communications,2015
+343,Ca9La0.91P5O24SiF2Ce0.05Tb0.05,Ca9La0.91P5O24SiF2,Ce3+,0.05,Tb3+,0.05,298,543,,,18.3,,,275,275,,,310.85,403,https://doi.org/10.1016/j.optcom.2014.09.010,,,Optics Communications,2015
+344,Ca9La0.85P5O24SiF2Ce0.05Tb0.1,Ca9La0.85P5O24SiF2,Ce3+,0.05,Tb3+,0.1,298,543,,,15.9,,573,275,275,,,282.39,403,https://doi.org/10.1016/j.optcom.2014.09.010,,,Optics Communications,2015
+345,Sr2La7.83Si6O24F2Ce0.07Tb0.1,Sr2La7.83Si6O24F2,Ce3+,0.07,Tb3+,0.1,298,543,0.219,0.354,,,,279,,,,,,https://doi.org/10.1016/j.jssc.2014.12.017,,,Journal of Solid State Chemistry,2015
+346,Sr2La7.78Si6O24F2Ce0.07Tb0.15,Sr2La7.78Si6O24F2,Ce3+,0.07,Tb3+,0.15,298,543,0.248,0.406,,,,279,,,,,,https://doi.org/10.1016/j.jssc.2014.12.017,,,Journal of Solid State Chemistry,2015
+347,Sr2La7.73Si6O24F2Ce0.07Tb0.2,Sr2La7.73Si6O24F2,Ce3+,0.07,Tb3+,0.2,298,543,0.274,0.532,,,,279,,,,,,https://doi.org/10.1016/j.jssc.2014.12.017,,,Journal of Solid State Chemistry,2015
+348,Ba2.97La0.94NaP3O12FEu0.01Tb0.06,Ba2.97La0.94NaP3O12F,Eu2+,0.01,Tb3+,0.06,298,543,,,,,,355,400,,,400,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+349,Ba2.97La0.88NaP3O12FEu0.01Tb0.12,Ba2.97La0.88NaP3O12F,Eu2+,0.01,Tb3+,0.12,298,543,,,,,,355,400,,,390,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+350,Ba2.97La0.8NaP3O12FEu0.01Tb0.2,Ba2.97La0.8NaP3O12F,Eu2+,0.01,Tb3+,0.2,298,543,,,,,,355,400,,,350,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+351,Ba2.97La0.75NaP3O12FEu0.01Tb0.25,Ba2.97La0.75NaP3O12F,Eu2+,0.01,Tb3+,0.25,298,543,,,,,,355,400,,,330,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+352,Ba2.97La0.7NaP3O12FEu0.01Tb0.3,Ba2.97La0.7NaP3O12F,Eu2+,0.01,Tb3+,0.3,298,543,,,,,,355,400,,,310,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+353,Ba2.97La0.6NaP3O12FEu0.01Tb0.4,Ba2.97La0.6NaP3O12F,Eu2+,0.01,Tb3+,0.4,298,543,,,,,,355,400,,,260,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+354,Ba2.97La0.5NaP3O12FEu0.01Tb0.5,Ba2.97La0.5NaP3O12F,Eu2+,0.01,Tb3+,0.5,298,543,,,,,,355,400,,,240,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+355,Ba2.97La0.4NaP3O12FEu0.01Tb0.6,Ba2.97La0.4NaP3O12F,Eu2+,0.01,Tb3+,0.6,298,543,0.319,0.523,,,,355,400,,,210,465,https://doi.org/10.1021/ic401033u,,,Inorganic Chemistry,2013
+356,K2Gd0.5PWO8Tb0.5,K2Gd0.5PWO8,Tb3+,0.5,,,298,543,0.35,0.58,,,,378,378,,,,543,https://doi.org/10.1039/C4TC02406K,,,Journal of Materials Chemistry C,2015
+357,BiOClTb0.01,BiOCl,Tb3+,0.01,,,298,543,,,,,,377,377,,,82000,543,https://doi.org/10.1016/j.jallcom.2016.11.224,mp-22939, icsd-29143 icsd-195115 icsd-24608 icsd-74502 icsd-185970,Journal of Alloys and Compounds,2017
+358,BiOClTb0.03,BiOCl,Tb3+,0.03,,,298,543,,,,,,377,377,,,70000,543,https://doi.org/10.1016/j.jallcom.2016.11.224,mp-22939, icsd-29143 icsd-195115 icsd-24608 icsd-74502 icsd-185970,Journal of Alloys and Compounds,2017
+359,BiOClTb0.05,BiOCl,Tb3+,0.05,,,298,543,,,,,,377,377,,,49000,543,https://doi.org/10.1016/j.jallcom.2016.11.224,mp-22939, icsd-29143 icsd-195115 icsd-24608 icsd-74502 icsd-185970,Journal of Alloys and Compounds,2017
+360,BiOClTb0.07,BiOCl,Tb3+,0.07,,,298,543,,,,,,377,377,,,47000,543,https://doi.org/10.1016/j.jallcom.2016.11.224,mp-22939, icsd-29143 icsd-195115 icsd-24608 icsd-74502 icsd-185970,Journal of Alloys and Compounds,2017
+361,BiOClTb0.09,BiOCl,Tb3+,0.09,,,298,543,0.353,0.572,,,370,377,377,354,,12000,543,https://doi.org/10.1016/j.jallcom.2016.11.224,mp-22939, icsd-29143 icsd-195115 icsd-24608 icsd-74502 icsd-185970,Journal of Alloys and Compounds,2017
+362,BiOClTb0.11,BiOCl,Tb3+,0.11,,,298,543,,,,,,377,377,,,10000,543,https://doi.org/10.1016/j.jallcom.2016.11.224,mp-22939, icsd-29143 icsd-195115 icsd-24608 icsd-74502 icsd-185970,Journal of Alloys and Compounds,2017
+363,La0.99BWO6Tb0.01,La0.99BWO6,Tb3+,0.01,,,298,543,0.3601,0.5145,,,,380,380,,,2113000,543,https://doi.org/10.1016/j.dyepig.2017.11.003,,,Dyes and Pigments,2018
+364,La0.985BWO6Tb0.01Eu0.005,La0.985BWO6,Tb3+,0.01,Eu3+,0.005,298,543,0.4157,0.4817,,,,380,380,,,2051000,543,https://doi.org/10.1016/j.dyepig.2017.11.003,,,Dyes and Pigments,2018
+365,NaCaBO3Ce0.01Tb0.03,NaCaBO3,Ce3+,0.01,Tb3+,0.03,298,543,0.197,0.226,,,,347,,,,,,https://doi.org/10.1039/C3DT52328D,,,Dalton Transactions,2014
+366,NaCaBO3Ce0.01Tb0.09,NaCaBO3,Ce3+,0.01,Tb3+,0.09,298,543,0.233,0.354,,,,347,,,,,,https://doi.org/10.1039/C3DT52328D,,,Dalton Transactions,2014
+367,NaCaBO3Ce0.01Tb0.15,NaCaBO3,Ce3+,0.01,Tb3+,0.15,298,543,0.254,0.426,,,,347,,,,,,https://doi.org/10.1039/C3DT52328D,,,Dalton Transactions,2014
+368,NaCaBO3Tb0.15,NaCaBO3,Tb3+,0.15,,,298,543,0.31,0.58,,,,347,,,,,,https://doi.org/10.1039/C3DT52328D,,,Dalton Transactions,2014
+369,Ba2Y4.7B5O17Ce0.01Tb0.05,Ba2Y4.7B5O17,Ce3+,0.01,Tb3+,0.05,298,543,0.225,0.294,,,,345,345,,,2148000,543,https://doi.org/10.1016/j.dyepig.2017.11.046,,,Dyes and Pigments,2018
+370,Ba2Y4.45B5O17Ce0.01Tb0.1,Ba2Y4.45B5O17,Ce3+,0.01,Tb3+,0.1,298,543,0.266,0.381,,,,345,345,,,1951000,543,https://doi.org/10.1016/j.dyepig.2017.11.046,,,Dyes and Pigments,2018
+371,Ba2Y3.95B5O17Ce0.01Tb0.2,Ba2Y3.95B5O17,Ce3+,0.01,Tb3+,0.2,298,543,0.303,0.457,,,,345,345,,,1783000,543,https://doi.org/10.1016/j.dyepig.2017.11.046,,,Dyes and Pigments,2018
+372,Ba2Y3.45B5O17Ce0.01Tb0.3,Ba2Y3.45B5O17,Ce3+,0.01,Tb3+,0.3,298,543,0.312,0.477,,,,345,345,,,1484000,543,https://doi.org/10.1016/j.dyepig.2017.11.046,,,Dyes and Pigments,2018
+373,Ba2Y2.95B5O17Ce0.01Tb0.4,Ba2Y2.95B5O17,Ce3+,0.01,Tb3+,0.4,298,543,0.321,0.495,,59,473,345,345,,,1341000,543,https://doi.org/10.1016/j.dyepig.2017.11.046,,,Dyes and Pigments,2018
+374,Ba2TbB2O6Cl,Ba2TbB2O6Cl,,,,,298,543,0.296,0.454,,,,377,283,,,1960000,543,https://doi.org/10.1021/ic300401z,,,Inorganic Chemistry,2012
+375,Sr0.92Si2N2O2Eu0.02,Sr0.92Si2N2O2,Eu3+,0.02,,,298,543,0.354,0.601,92,,500,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+376,Ca9NaZnP7O28Eu0.072Tb0.108,Ca9NaZnP7O28,Eu3+,0.072,Tb3+,0.108,298,543,0.373,0.389,,,,378,,,,2184200,543,https://doi.org/10.1016/j.dyepig.2017.12.026,mp-1221168,,Dyes and Pigments,2018
+377,Ca9NaZnP7O28Eu0.072Tb0.135,Ca9NaZnP7O28,Eu3+,0.072,Tb3+,0.135,298,543,0.408,0.434,,,,378,,,,2046900,543,https://doi.org/10.1016/j.dyepig.2017.12.026,mp-1221168,,Dyes and Pigments,2018
+378,Ca9NaZnP7O28Eu0.072Tb0.162,Ca9NaZnP7O28,Eu3+,0.072,Tb3+,0.162,298,543,0.38,0.438,,,,378,,,,2008500,543,https://doi.org/10.1016/j.dyepig.2017.12.026,mp-1221168,,Dyes and Pigments,2018
+379,Ca5P3O12FTb0.04,Ca5P3O12F,Tb3+,0.04,,,298,543,0.201,0.293,,,,255,,,,,,https://doi.org/10.1039/C3DT52231H,"mp-6473,mp-1227110", icsd-240629 icsd-94082 icsd-24236 icsd-38118 icsd-240658 icsd-163790 icsd-236762 icsd-94081 icsd-94083 icsd-30261 icsd-56314 icsd-84227 icsd-180314 icsd-193552 icsd-262707 icsd-52385 icsd-240657 icsd-56313,Dalton Transactions,2014
+380,Ca5P3O12FTb0.04Eu0.02,Ca5P3O12F,Tb3+,0.04,Eu3+,0.02,298,543,0.213,0.248,,,,255,,,,,,https://doi.org/10.1039/C3DT52231H,"mp-6473,mp-1227110", icsd-240629 icsd-94082 icsd-24236 icsd-38118 icsd-240658 icsd-163790 icsd-236762 icsd-94081 icsd-94083 icsd-30261 icsd-56314 icsd-84227 icsd-180314 icsd-193552 icsd-262707 icsd-52385 icsd-240657 icsd-56313,Dalton Transactions,2014
+381,Ca2YZr2Al3O12Tb0.9,Ca2YZr2Al3O12,Tb3+,0.9,,,298,543,,,22,,,377,267,308,377,,543,https://doi.org/10.1039/C9TC03664D,,,Journal of Materials Chemistry C,2019
+382,Ca2YZr2Al3O12Ce0.04Tb0.9,Ca2YZr2Al3O12,Ce3+,0.04,Tb3+,0.9,298,543,0.342,0.545,56,,390,408,,,,,,https://doi.org/10.1039/C9TC03664D,,,Journal of Materials Chemistry C,2019
+383,Li6Lu0.77B3O9Ce0.03Tb0.2,Li6Lu0.77B3O9,Ce3+,0.03,Tb3+,0.2,298,543,0.317,0.519,,,,350,,,,,,https://doi.org/10.1039/C4RA12538J,,,RSC Advances,2015
+384,Li6Lu0.57B3O9Ce0.03Tb0.4,Li6Lu0.57B3O9,Ce3+,0.03,Tb3+,0.4,298,543,0.334,0.57,,,,350,,,,,,https://doi.org/10.1039/C4RA12538J,,,RSC Advances,2015
+385,Li6Lu0.37B3O9Ce0.03Tb0.6,Li6Lu0.37B3O9,Ce3+,0.03,Tb3+,0.6,298,543,0.34,0.586,,,,350,,,,,,https://doi.org/10.1039/C4RA12538J,,,RSC Advances,2015
+386,Li6Lu0.32B3O9Ce0.03Tb0.65,Li6Lu0.32B3O9,Ce3+,0.03,Tb3+,0.65,298,543,0.34,0.588,,,473,350,,,,,,https://doi.org/10.1039/C4RA12538J,,,RSC Advances,2015
+387,Li6Lu0.27B3O9Ce0.03Tb0.7,Li6Lu0.27B3O9,Ce3+,0.03,Tb3+,0.7,298,543,0.342,0.589,,,,350,,,,,,https://doi.org/10.1039/C4RA12538J,,,RSC Advances,2015
+388,Li6Lu0.22B3O9Ce0.03Tb0.75,Li6Lu0.22B3O9,Ce3+,0.03,Tb3+,0.75,298,543,0.342,0.593,,,,350,,,,,,https://doi.org/10.1039/C4RA12538J,,,RSC Advances,2015
+389,Sr4Al14O25Tb0.12,Sr4Al14O25,Tb3+,0.12,,,298,544,0.2875,0.4841,,,,378,378,,,,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+390,Sr4Al14O25Ce0.16Tb0.02,Sr4Al14O25,Ce3+,0.16,Tb3+,0.02,298,544,0.2627,0.4276,,,,348,348,,,5770000,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+391,Sr4Al14O25Ce0.16Tb0.04,Sr4Al14O25,Ce3+,0.16,Tb3+,0.04,298,544,0.2877,0.4944,,,,348,348,,,5870000,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+392,Sr4Al14O25Ce0.16Tb0.08,Sr4Al14O25,Ce3+,0.16,Tb3+,0.08,298,544,0.304,0.5303,47.04,,,348,348,,,3340000,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+393,Sr4Al14O25Ce0.16Tb0.1,Sr4Al14O25,Ce3+,0.16,Tb3+,0.1,298,544,0.3047,0.5359,,,,348,348,,,,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+394,Sr4Al14O25Ce0.16Tb0.12,Sr4Al14O25,Ce3+,0.16,Tb3+,0.12,298,544,0.3067,0.5458,,,,348,348,,,2300000,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+395,Sr4Al14O25Ce0.16Tb0.16,Sr4Al14O25,Ce3+,0.16,Tb3+,0.16,298,544,0.3066,0.5475,,,,348,348,,,2300000,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+396,Sr4Al14O25Ce0.16Tb0.2,Sr4Al14O25,Ce3+,0.16,Tb3+,0.2,298,544,0.3058,0.5458,,,,348,348,,,2460000,544,https://doi.org/10.1039/D0TC04618C,mp-5512, icsd-88527 icsd-27744,Journal of Materials Chemistry C,2021
+397,Ca3Gd0.9Ga3O15B4Ce0.05Tb0.05,Ca3Gd0.9Ga3O15B4,Ce3+,0.05,Tb3+,0.05,298,544,0.2068,0.1852,65.2,,,344,,,,25.35,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+398,Ca3Gd0.85Ga3O15B4Ce0.05Tb0.1,Ca3Gd0.85Ga3O15B4,Ce3+,0.05,Tb3+,0.1,298,544,0.237,0.2618,69.3,,,344,,,,23.54,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+399,Ca3Gd0.65Ga3O15B4Ce0.05Tb0.3,Ca3Gd0.65Ga3O15B4,Ce3+,0.05,Tb3+,0.3,298,544,0.298,0.4105,75.5,,,344,,,,18.75,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+400,Ca3Gd0.45Ga3O15B4Ce0.05Tb0.5,Ca3Gd0.45Ga3O15B4,Ce3+,0.05,Tb3+,0.5,298,544,0.3263,0.4791,61.2,,,344,,,,14.11,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+401,NaCaPO4Tb0.02Ce0.005,NaCaPO4,Tb3+,0.02,Ce3+,0.005,298,544,,,,,,328,,,,2726000,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+402,NaCaPO4Tb0.02Ce0.01,NaCaPO4,Tb3+,0.02,Ce3+,0.01,298,544,,,,,,328,,,,2729000,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+403,NaCaPO4Tb0.02Ce0.02,NaCaPO4,Tb3+,0.02,Ce3+,0.02,298,544,0.27,0.38,,49.1,,328,,,,2741000,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+404,NaCaPO4Tb0.04Ce0.02,NaCaPO4,Tb3+,0.04,Ce3+,0.02,298,544,,,,76.2,,328,,,,,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+405,NaCaPO4Tb0.06Ce0.02,NaCaPO4,Tb3+,0.06,Ce3+,0.02,298,544,,,,74.7,,328,,,,,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+406,NaCaPO4Tb0.08Ce0.02,NaCaPO4,Tb3+,0.08,Ce3+,0.02,298,544,0.32,0.56,,,,328,,,,,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+407,MgY3.8Si3O13Tb0.2,MgY3.8Si3O13,Tb3+,0.2,,,298,544,0.32,0.65,,,,330,,,,,544,https://doi.org/10.1111/j.1551-2916.2010.03626.x,,,Journal of the American Ceramic Society,2010
+408,MgY3.7Si3O13Ce0.2Tb0.1,MgY3.7Si3O13,Ce3+,0.2,Tb3+,0.1,298,544,0.25,0.33,,,,330,330,,,,544,https://doi.org/10.1111/j.1551-2916.2010.03626.x,,,Journal of the American Ceramic Society,2010
+409,MgY3.4Si3O13Ce0.2Tb0.4,MgY3.4Si3O13,Ce3+,0.2,Tb3+,0.4,298,544,,,49,,,330,330,,,,544,https://doi.org/10.1111/j.1551-2916.2010.03626.x,,,Journal of the American Ceramic Society,2010
+410,MgY3.2Si3O13Ce0.2Tb0.6,MgY3.2Si3O13,Ce3+,0.2,Tb3+,0.6,298,544,0.4,0.52,,,,330,330,,,,544,https://doi.org/10.1111/j.1551-2916.2010.03626.x,,,Journal of the American Ceramic Society,2010
+411,Ba3Y1.88B4O12Ce0.05Tb0.01,Ba3Y1.88B4O12,Ce3+,0.05,Tb3+,0.01,298,544,0.179,0.168,,,,360,,,,,544,https://doi.org/10.1111/j.1551-2916.2012.05464.x,,,Journal of the American Ceramic Society,2012
+412,Ba3Y1.84B4O12Ce0.05Tb0.03,Ba3Y1.84B4O12,Ce3+,0.05,Tb3+,0.03,298,544,0.19,0.208,,,,360,,,,,544,https://doi.org/10.1111/j.1551-2916.2012.05464.x,,,Journal of the American Ceramic Society,2012
+413,Ba3Y1.8B4O12Ce0.05Tb0.05,Ba3Y1.8B4O12,Ce3+,0.05,Tb3+,0.05,298,544,0.206,0.255,,,,360,,,,,544,https://doi.org/10.1111/j.1551-2916.2012.05464.x,,,Journal of the American Ceramic Society,2012
+414,Ba3Y1.7B4O12Ce0.05Tb0.1,Ba3Y1.7B4O12,Ce3+,0.05,Tb3+,0.1,298,544,0.234,0.338,,,,360,,,,,544,https://doi.org/10.1111/j.1551-2916.2012.05464.x,,,Journal of the American Ceramic Society,2012
+415,Ba3Y1.5B4O12Ce0.05Tb0.2,Ba3Y1.5B4O12,Ce3+,0.05,Tb3+,0.2,298,544,0.26,0.416,,,,360,,,,,544,https://doi.org/10.1111/j.1551-2916.2012.05464.x,,,Journal of the American Ceramic Society,2012
+416,Ba3Y1.3B4O12Ce0.05Tb0.3,Ba3Y1.3B4O12,Ce3+,0.05,Tb3+,0.3,298,544,0.28,0.463,,,,360,,,,,544,https://doi.org/10.1111/j.1551-2916.2012.05464.x,,,Journal of the American Ceramic Society,2012
+417,Ba3Y0.9B4O12Ce0.05Tb0.5,Ba3Y0.9B4O12,Ce3+,0.05,Tb3+,0.5,298,544,0.313,0.526,,,,360,,,,,544,https://doi.org/10.1111/j.1551-2916.2012.05464.x,,,Journal of the American Ceramic Society,2012
+418,Sr0.83Ba0.15Si2O2N2Eu0.02,Sr0.83Ba0.15Si2O2N2,Eu2+,0.02,,,298,544,0.358,0.606,89,,,450,,,,,,https://doi.org/10.1021/cm802394w,mp-6764, icsd-419450 icsd-173758,Chemistry of Materials,2008
+419,Sr0.73Ba0.25Si2O2N2Eu0.02,Sr0.73Ba0.25Si2O2N2,Eu2+,0.02,,,298,544,0.361,0.602,79,,560,450,,,,,,https://doi.org/10.1021/cm802394w,mp-6764, icsd-419450 icsd-173758,Chemistry of Materials,2008
+420,NaBaYB2O6Ce0.02Tb0.01,NaBaYB2O6,Ce3+,0.02,Tb3+,0.01,298,544,0.27,0.397,,,,360,,,,62.78,,https://doi.org/10.1111/jace.15693,mp-1182342,,Journal of the American Ceramic Society,2018
+421,NaBaYB2O6Ce0.02Tb0.02,NaBaYB2O6,Ce3+,0.02,Tb3+,0.02,298,544,0.287,0.457,,,,360,,,,58.62,,https://doi.org/10.1111/jace.15693,mp-1182342,,Journal of the American Ceramic Society,2018
+422,NaBaYB2O6Ce0.02Tb0.03,NaBaYB2O6,Ce3+,0.02,Tb3+,0.03,298,544,0.3,0.499,,,,360,360,,,50.24,542,https://doi.org/10.1111/jace.15693,mp-1182342,,Journal of the American Ceramic Society,2018
+423,NaBaYB2O6Ce0.02Tb0.04,NaBaYB2O6,Ce3+,0.02,Tb3+,0.04,298,544,0.315,0.549,,,,360,,,,42.86,,https://doi.org/10.1111/jace.15693,mp-1182342,,Journal of the American Ceramic Society,2018
+424,NaBaYB2O6Ce0.02Tb0.05,NaBaYB2O6,Ce3+,0.02,Tb3+,0.05,298,544,0.323,0.565,,,,360,,,,39.71,,https://doi.org/10.1111/jace.15693,mp-1182342,,Journal of the American Ceramic Society,2018
+425,NaBaYB2O6Tb0.03,NaBaYB2O6,Tb3+,0.03,,,298,544,,,,,493,254,,,,,542,https://doi.org/10.1111/jace.15693,mp-1182342,,Journal of the American Ceramic Society,2018
+426,CaBi2Ta2O9Tb0.15,CaBi2Ta2O9,Tb3+,0.15,,,298,544,0.3018,0.4381,,,,379,379,355,,,544,https://doi.org/10.1016/j.optcom.2014.03.072,"mp-556697,mvc-16422,mp-556848", icsd-92056 icsd-20667,Optics Communications,2014
+427,SrMoO4Tb0.05,SrMoO4,Tb3+,0.05,,,298,544,0.2867,0.5789,,,,258,258,,,760000,544,https://doi.org/10.1016/j.materresbull.2010.12.016,mp-18834, icsd-193794 icsd-250491 icsd-23700 icsd-28025 icsd-194080 icsd-173125 icsd-173120 icsd-245803 icsd-245802 icsd-173122 icsd-239418 icsd-248458 icsd-99089 icsd-194081,Materials Research Bulletin,2011
+428,Sr2LiScB4O10Ce0.03Tb0.01,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.01,298,544,0.244,0.282,,,,325,,,,73.144,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+429,Sr2LiScB4O10Ce0.03Tb0.03,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.03,298,544,0.268,0.372,,,,325,,,,,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+430,Sr2LiScB4O10Ce0.03Tb0.05,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.05,298,544,0.292,0.458,39.67,,,325,,,,57.003,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+431,Sr2LiScB4O10Ce0.03Tb0.07,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.07,298,544,0.312,0.513,,,,325,,,,,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+432,Sr2LiScB4O10Ce0.03Tb0.1,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.1,298,544,0.33,0.54,43.49,,,325,,,,42.848,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+433,Sr2LiScB4O10Ce0.03Tb0.15,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.15,298,544,0.325,0.558,,,,325,,,,35.483,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+434,Sr2LiScB4O10Ce0.03Tb0.2,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.2,298,544,0.34,0.566,45.87,,,325,,,,26.566,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+435,Sr2LiScB4O10Ce0.03Tb0.25,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.25,298,544,0.339,0.58,,,,325,,,,,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+436,Sr2LiScB4O10Ce0.03Tb0.3,Sr2LiScB4O10,Ce3+,0.03,Tb3+,0.3,298,544,0.338,0.582,,,,325,,,,17.41,385,https://doi.org/10.1021/acs.inorgchem.9b00639,mp-8796, icsd-68429,Inorganic Chemistry,2019
+437,Mg2Y8Si6O26Ce0.01Tb0.05,Mg2Y8Si6O26,Ce3+,0.01,Tb3+,0.05,298,544,0.251,0.333,62,,,292,,,,,,https://doi.org/10.1021/jp204824d,,,Journal of Physical Chemistry C,2011
+438,Mg2Y8Si6O26Ce0.01Tb0.08,Mg2Y8Si6O26,Ce3+,0.01,Tb3+,0.08,298,544,0.284,0.429,68,,,292,,,,,,https://doi.org/10.1021/jp204824d,,,Journal of Physical Chemistry C,2011
+439,Ca3Gd0.9Ga3B4O15Ce0.05Tb0.05,Ca3Gd0.9Ga3B4O15,Ce3+,0.05,Tb3+,0.05,298,544,0.2068,0.1852,65.2,,,344,,,,25.35,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+440,Ca3Gd0.85Ga3B4O15Ce0.05Tb0.1,Ca3Gd0.85Ga3B4O15,Ce3+,0.05,Tb3+,0.1,298,544,0.237,0.2618,69.3,,,344,,,,23.54,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+441,Ca3Gd0.65Ga3B4O15Ce0.05Tb0.3,Ca3Gd0.65Ga3B4O15,Ce3+,0.05,Tb3+,0.3,298,544,0.298,0.4105,75.5,,,344,,,,18.75,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+442,Ca3Gd0.45Ga3B4O15Ce0.05Tb0.5,Ca3Gd0.45Ga3B4O15,Ce3+,0.05,Tb3+,0.5,298,544,0.3263,0.4791,61.2,,,344,,,,14.11,400,https://doi.org/10.1016/j.ceramint.2017.12.082,,,Ceramics International,2018
+443,Ca4.8P2SiO12Ce0.03Tb0.01,Ca4.8P2SiO12,Ce3+,0.03,Tb3+,0.01,298,544,0.235,0.301,0.494,,,307,307,,,61.04,416,https://doi.org/10.1039/C3TC00039G,mp-1227400,,Journal of Materials Chemistry C,2013
+444,Ca4.7P2SiO12Ce0.03Tb0.03,Ca4.7P2SiO12,Ce3+,0.03,Tb3+,0.03,298,544,0.277,0.402,0.549,,,307,307,,,43.22,416,https://doi.org/10.1039/C3TC00039G,mp-1227400,,Journal of Materials Chemistry C,2013
+445,Ca4.6P2SiO12Ce0.03Tb0.05,Ca4.6P2SiO12,Ce3+,0.03,Tb3+,0.05,298,544,0.306,0.5,0.56,,,307,307,,,31.27,416,https://doi.org/10.1039/C3TC00039G,mp-1227400,,Journal of Materials Chemistry C,2013
+446,Ca4.5P2SiO12Ce0.03Tb0.07,Ca4.5P2SiO12,Ce3+,0.03,Tb3+,0.07,298,544,0.313,0.523,0.468,,,307,307,,,20.82,416,https://doi.org/10.1039/C3TC00039G,mp-1227400,,Journal of Materials Chemistry C,2013
+447,Ca4.35P2SiO12Ce0.03Tb0.1,Ca4.35P2SiO12,Ce3+,0.03,Tb3+,0.1,298,544,0.318,0.542,0.403,,,307,307,,,15.6,416,https://doi.org/10.1039/C3TC00039G,mp-1227400,,Journal of Materials Chemistry C,2013
+448,La2.85GaGe5O16Tb0.15,La2.85GaGe5O16,Tb3+,0.15,,,298,544,0.2643,0.4813,,,,377,377,370,352,2980000,544,https://doi.org/10.1039/C4TC01091D,mp-652961, icsd-50521,Journal of Materials Chemistry C,2014
+449,La2.84GaGe5O16Tb0.15Eu0.01,La2.84GaGe5O16,Tb3+,0.15,Eu3+,0.01,298,544,,,,,,377,377,370,352,2160000,544,https://doi.org/10.1039/C4TC01091D,mp-652961, icsd-50521,Journal of Materials Chemistry C,2014
+450,La2.8GaGe5O16Tb0.15Eu0.05,La2.8GaGe5O16,Tb3+,0.15,Eu3+,0.05,298,544,0.3832,0.4199,,,623,377,377,370,352,1550000,544,https://doi.org/10.1039/C4TC01091D,mp-652961, icsd-50521,Journal of Materials Chemistry C,2014
+451,La2.8GaGe5O16Tb0.15Eu0.05,La2.8GaGe5O16,Tb3+,0.15,Eu3+,0.05,423,544,0.3796,0.3988,,,,377,,,,,544,https://doi.org/10.1039/C4TC01091D,mp-652961, icsd-50521,Journal of Materials Chemistry C,2014
+452,La2.8GaGe5O16Tb0.15Eu0.05,La2.8GaGe5O16,Tb3+,0.15,Eu3+,0.05,523,544,0.3483,0.3853,,,,377,,,,,544,https://doi.org/10.1039/C4TC01091D,mp-652961, icsd-50521,Journal of Materials Chemistry C,2014
+453,La2.78GaGe5O16Tb0.15Eu0.07,La2.78GaGe5O16,Tb3+,0.15,Eu3+,0.07,298,544,0.4156,0.4085,,,,377,377,370,352,,544,https://doi.org/10.1039/C4TC01091D,mp-652961, icsd-50521,Journal of Materials Chemistry C,2014
+454,Ca3YGa3B4O15Tb0.07,Ca3YGa3B4O15,Tb3+,0.07,,,298,544,0.314,0.573,,,,365,,,,,,https://doi.org/10.1021/jp107856d,mp-695475,,Journal of Physical Chemistry C,2011
+455,MgY4Si3O13Tb0.1,MgY4Si3O13,Tb3+,0.1,,,298,544,0.275,0.484,,,,237,237,,,,544,https://doi.org/10.1016/j.ceramint.2017.09.005,,,Ceramics International,2017
+456,MgY4Si3O13Ce0.01Tb0.03,MgY4Si3O13,Ce3+,0.01,Tb3+,0.03,298,544,0.189,0.195,,,,320,,,,28.924,395,https://doi.org/10.1016/j.ceramint.2017.09.005,,,Ceramics International,2017
+457,MgY4Si3O13Ce0.01Tb0.1,MgY4Si3O13,Ce3+,0.01,Tb3+,0.1,298,544,0.208,0.257,,,,320,,,,27.719,395,https://doi.org/10.1016/j.ceramint.2017.09.005,,,Ceramics International,2017
+458,MgY4Si3O13Ce0.01Tb0.14,MgY4Si3O13,Ce3+,0.01,Tb3+,0.14,298,544,0.226,0.317,,,,320,,,,26.752,395,https://doi.org/10.1016/j.ceramint.2017.09.005,,,Ceramics International,2017
+459,MgY4Si3O13Ce0.01Tb0.25,MgY4Si3O13,Ce3+,0.01,Tb3+,0.25,298,544,0.246,0.382,,,,320,,,,24.425,395,https://doi.org/10.1016/j.ceramint.2017.09.005,,,Ceramics International,2017
+460,MgY4Si3O13Ce0.01Tb0.3,MgY4Si3O13,Ce3+,0.01,Tb3+,0.3,298,544,0.257,0.416,,,,320,,,,24.345,395,https://doi.org/10.1016/j.ceramint.2017.09.005,,,Ceramics International,2017
+461,Sr0.83Ba0.15Si2N2O2Eu0.02,Sr0.83Ba0.15Si2N2O2,Eu3+,0.02,,,298,544,0.358,0.606,89,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+462,Sr0.73Ba0.25Si2N2O2Eu0.02,Sr0.73Ba0.25Si2N2O2,Eu3+,0.02,,,298,544,0.361,0.602,79,,560,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+463,NaLa0.8MgWO6Tb0.2,NaLa0.8MgWO6,Tb3+,0.2,,,298,544,0.331,0.642,,3.8,,485,485,,,,544,https://doi.org/10.1016/j.materresbull.2012.03.023,"mp-558194,mp-556619", icsd-187079 icsd-174386 icsd-172413 icsd-40497,Materials Research Bulletin,2012
+464,Sr1.910MgB2O6Ce0.05Tb0.01,Sr1.910MgB2O6,Ce3+,0.05,Tb3+,0.01,298,544,0.2017,0.2716,,,,323,,,,27.69,393,https://doi.org/10.1039/C9DT04092G,mp-13541, icsd-240897,Dalton Transactions,2020
+465,Sr1.88MgB2O6Ce0.05Tb0.03,Sr1.88MgB2O6,Ce3+,0.05,Tb3+,0.03,298,544,0.219,0.3725,,,,323,,,,26.73,393,https://doi.org/10.1039/C9DT04092G,mp-13541, icsd-240897,Dalton Transactions,2020
+466,Sr1.85MgB2O6Ce0.05Tb0.05,Sr1.85MgB2O6,Ce3+,0.05,Tb3+,0.05,298,544,0.2268,0.4136,66.39,48.92,515,323,,,,22.92,393,https://doi.org/10.1039/C9DT04092G,mp-13541, icsd-240897,Dalton Transactions,2020
+467,Sr1.82MgB2O6Ce0.05Tb0.07,Sr1.82MgB2O6,Ce3+,0.05,Tb3+,0.07,298,544,0.224,0.4061,,,,323,,,,22.25,393,https://doi.org/10.1039/C9DT04092G,mp-13541, icsd-240897,Dalton Transactions,2020
+468,Sr1.775MgB2O6Ce0.05Tb0.1,Sr1.775MgB2O6,Ce3+,0.05,Tb3+,0.1,298,544,0.2151,0.3683,,,,323,,,,,,https://doi.org/10.1039/C9DT04092G,mp-13541, icsd-240897,Dalton Transactions,2020
+469,NaCa0.96PO4Ce0.02Tb0.02,NaCa0.96PO4,Ce3+,0.02,Tb3+,0.02,298,544,0.27,0.38,,49.1,,328,,,,2741000,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+470,NaCa0.94PO4Ce0.02Tb0.04,NaCa0.94PO4,Ce3+,0.02,Tb3+,0.04,298,544,,,,76.2,,328,,,,,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+471,NaCa0.92PO4Ce0.02Tb0.06,NaCa0.92PO4,Ce3+,0.02,Tb3+,0.06,298,544,,,,74.7,,328,,,,,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+472,NaCa0.9PO4Ce0.02Tb0.08,NaCa0.9PO4,Ce3+,0.02,Tb3+,0.08,298,544,0.32,0.56,,,,328,,,,,,https://doi.org/10.1002/ejic.201000392,mp-14401, icsd-35629,European Journal of Inorganic Chemistry,2010
+473,NaCa0.96PO4Tb0.04,NaCa0.96PO4,Tb3+,0.04,,,298,544,0.315,0.671,,,,369,,,,6180000,544,https://doi.org/10.1016/j.ceramint.2013.12.101,mp-14401, icsd-35629,Ceramics International,2014
+474,NaCa0.94PO4Tb0.04Eu0.02,NaCa0.94PO4,Tb3+,0.04,Eu3+,0.02,298,544,0.361,0.623,,,,369,,,,5910000,544,https://doi.org/10.1016/j.ceramint.2013.12.101,mp-14401, icsd-35629,Ceramics International,2014
+475,NaCa0.92PO4Tb0.04Eu0.04,NaCa0.92PO4,Tb3+,0.04,Eu3+,0.04,298,544,0.401,0.583,,,,369,,,,,,https://doi.org/10.1016/j.ceramint.2013.12.101,mp-14401, icsd-35629,Ceramics International,2014
+476,NaCa0.9PO4Tb0.04Eu0.06,NaCa0.9PO4,Tb3+,0.04,Eu3+,0.06,298,544,0.432,0.551,,,,369,,,,3120000,544,https://doi.org/10.1016/j.ceramint.2013.12.101,mp-14401, icsd-35629,Ceramics International,2014
+477,NaCa0.88PO4Tb0.04Eu0.08,NaCa0.88PO4,Tb3+,0.04,Eu3+,0.08,298,544,0.474,0.512,,,,369,,,,,,https://doi.org/10.1016/j.ceramint.2013.12.101,mp-14401, icsd-35629,Ceramics International,2014
+478,Sr7ZrP6O24Tb0.01,Sr7ZrP6O24,Tb3+,0.01,,,298,544,0.265,0.32,,,,374,,,,3970000,544,https://doi.org/10.1016/j.jallcom.2017.02.199,,,Journal of Alloys and Compounds,2017
+479,Sr7ZrP6O24Tb0.01Eu0.005,Sr7ZrP6O24,Tb3+,0.01,Eu3+,0.005,298,544,0.309,0.322,,,,374,,,,2850000,544,https://doi.org/10.1016/j.jallcom.2017.02.199,,,Journal of Alloys and Compounds,2017
+480,Sr7ZrP6O24Tb0.01Eu0.01,Sr7ZrP6O24,Tb3+,0.01,Eu3+,0.01,298,544,0.337,0.322,,,,374,,,,2300000,544,https://doi.org/10.1016/j.jallcom.2017.02.199,,,Journal of Alloys and Compounds,2017
+481,Ba2Y0.82B2O6ClCe0.03Tb0.15,Ba2Y0.82B2O6Cl,Ce3+,0.03,Tb3+,0.15,298,545,,,,,,360,,,,6.67,420,https://doi.org/10.1111/jace.12916,mp-866310, icsd-262072,Journal of the American Ceramic Society,2014
+482,Ba2Y0.47B2O6ClCe0.03Tb0.5,Ba2Y0.47B2O6Cl,Ce3+,0.03,Tb3+,0.5,298,545,,,,,,360,,,,1.58,420,https://doi.org/10.1111/jace.12916,mp-866310, icsd-262072,Journal of the American Ceramic Society,2014
+483,Ba2Y0.47B2O6ClCe0.03Tb0.5,Ba2Y0.47B2O6Cl,Ce3+,0.03,Tb3+,0.5,298,545,0.328,0.591,,,,360,,,,2094000,545,https://doi.org/10.1111/jace.12916,mp-866310, icsd-262072,Journal of the American Ceramic Society,2014
+484,Ba3Sc4O9Bi0.016,Ba3Sc4O9,Bi3+,0.016,,,298,545,0.3708,0.5228,,,508,377,,,,883.45,545,https://doi.org/10.1111/jace.14789,,,Journal of the American Ceramic Society,2017
+485,Ca0.99Sr2Al2O6Ce0.01,Ca0.99Sr2Al2O6,Ce3+,0.01,,,303,545,0.3553,0.5541,31,,485,375,375,,,,545,https://doi.org/10.1016/j.jlumin.2018.10.119,mp-3393, icsd-71860 icsd-66062,Journal of Luminescence,2019
+486,Ca3La5.4Si6O24Ce0.5Tb0.1,Ca3La5.4Si6O24,Ce3+,0.5,Tb3+,0.1,298,545,0.27,0.35,,,,288,288,355,,,420,https://doi.org/10.1111/jace.12846,,,Journal of the American Ceramic Society,2014
+487,Ca3La5.2Si6O24Ce0.5Tb0.3,Ca3La5.2Si6O24,Ce3+,0.5,Tb3+,0.3,298,545,0.31,0.48,,,,288,288,355,,,420,https://doi.org/10.1111/jace.12846,,,Journal of the American Ceramic Society,2014
+488,Ca3La5Si6O24Ce0.5Tb0.5,Ca3La5Si6O24,Ce3+,0.5,Tb3+,0.5,298,545,0.32,0.52,,,,288,288,355,,,420,https://doi.org/10.1111/jace.12846,,,Journal of the American Ceramic Society,2014
+489,Ca3La4.8Si6O24Ce0.5Tb0.7,Ca3La4.8Si6O24,Ce3+,0.5,Tb3+,0.7,298,545,0.33,0.55,,,,288,288,355,,,420,https://doi.org/10.1111/jace.12846,,,Journal of the American Ceramic Society,2014
+490,Ca3La4.6Si6O24Ce0.5Tb0.9,Ca3La4.6Si6O24,Ce3+,0.5,Tb3+,0.9,298,545,0.33,0.55,,,,288,288,355,,,420,https://doi.org/10.1111/jace.12846,,,Journal of the American Ceramic Society,2014
+491,Ca3La4.4Si6O24Ce0.5Tb1.1,Ca3La4.4Si6O24,Ce3+,0.5,Tb3+,1.1,298,545,0.33,0.56,,,,288,288,355,,,420,https://doi.org/10.1111/jace.12846,,,Journal of the American Ceramic Society,2014
+492,Ca3La5.5Si6O24Tb0.5,Ca3La5.5Si6O24,Tb3+,0.5,,,298,545,0.35,0.55,,,,257,238,355,,,545,https://doi.org/10.1111/jace.12846,,,Journal of the American Ceramic Society,2014
+493,Mg1.25Si1.25Al2.5O3N3Ce0.03Tb0.01,Mg1.25Si1.25Al2.5O3N3,Ce3+,0.03,Tb3+,0.01,298,545,,,,,,335,,,,35.43,,https://doi.org/10.1039/C8TC05330H,,,Journal of Materials Chemistry C,2019
+494,Mg1.25Si1.25Al2.5O3N3Ce0.03Tb0.02,Mg1.25Si1.25Al2.5O3N3,Ce3+,0.03,Tb3+,0.02,298,545,0.3503,0.5651,,,468,335,,,,31.82,,https://doi.org/10.1039/C8TC05330H,,,Journal of Materials Chemistry C,2019
+495,Mg1.25Si1.25Al2.5O3N3Ce0.03Tb0.03,Mg1.25Si1.25Al2.5O3N3,Ce3+,0.03,Tb3+,0.03,298,545,,,,,,335,,,,31.2,,https://doi.org/10.1039/C8TC05330H,,,Journal of Materials Chemistry C,2019
+496,Mg1.25Si1.25Al2.5O3N3Ce0.03Tb0.04,Mg1.25Si1.25Al2.5O3N3,Ce3+,0.03,Tb3+,0.04,298,545,,,,,,335,,,,26.8,,https://doi.org/10.1039/C8TC05330H,,,Journal of Materials Chemistry C,2019
+497,Mg1.25Si1.25Al2.5O3N3Tb0.02,Mg1.25Si1.25Al2.5O3N3,Tb3+,0.02,,,298,545,0.3209,0.421,,,468,335,335,,,,545,https://doi.org/10.1039/C8TC05330H,,,Journal of Materials Chemistry C,2019
+498,CaGdW4O16Tb0.5,CaGdW4O16,Tb3+,0.5,,,298,545,0.334,0.602,82.5,,,380,380,,,0.573,545,https://doi.org/10.1016/j.dyepig.2017.12.067,,,Dyes and Pigments,2018
+499,Ba0.52Sr0.4YSi2Al2O2N5Eu0.08,Ba0.52Sr0.4YSi2Al2O2N5,Eu2+,0.08,,,298,545,0.398,0.5528,,,,365,,,,,,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+500,LiBa0.9PO5Tb0.1,LiBa0.9PO5,Tb3+,0.1,,,298,545,0.2231,0.4287,,,,378,378,,,2350000,545,https://doi.org/10.1063/1.3673331,,,Journal of Applied Physics,2012
+501,LiBa0.8PO5Tb0.2,LiBa0.8PO5,Tb3+,0.2,,,298,545,0.2282,0.423,,,,378,378,,,2500000,545,https://doi.org/10.1063/1.3673331,,,Journal of Applied Physics,2012
+502,LiBa0.7PO5Tb0.3,LiBa0.7PO5,Tb3+,0.3,,,298,545,0.2543,0.5457,,,,378,378,,,2520000,545,https://doi.org/10.1063/1.3673331,,,Journal of Applied Physics,2012
+503,LiBa0.6PO5Tb0.4,LiBa0.6PO5,Tb3+,0.4,,,298,545,0.2535,0.5488,,,,378,378,,,2510000,545,https://doi.org/10.1063/1.3673331,,,Journal of Applied Physics,2012
+504,LiBa0.5PO5Tb0.5,LiBa0.5PO5,Tb3+,0.5,,,298,545,0.2527,0.4961,,,,378,378,,,1100000,545,https://doi.org/10.1063/1.3673331,,,Journal of Applied Physics,2012
+505,La5.75Ba4Si6O24F2Ce0.05Tb0.2,La5.75Ba4Si6O24F2,Ce3+,0.05,Tb3+,0.2,298,545,0.2573,0.3654,,,,280,,,,,,https://doi.org/10.1016/j.jlumin.2013.07.035,mp-686674,,Journal of Luminescence,2014
+506,La5.65Ba4Si6O24F2Ce0.05Tb0.3,La5.65Ba4Si6O24F2,Ce3+,0.05,Tb3+,0.3,298,545,0.2745,0.4221,,,,280,,,,,,https://doi.org/10.1016/j.jlumin.2013.07.035,mp-686674,,Journal of Luminescence,2014
+507,La5.55Ba4Si6O24F2Ce0.05Tb0.4,La5.55Ba4Si6O24F2,Ce3+,0.05,Tb3+,0.4,298,545,0.2806,0.4653,,,,280,,,,,,https://doi.org/10.1016/j.jlumin.2013.07.035,mp-686674,,Journal of Luminescence,2014
+508,Sr0.97MoO4Tb0.02,Sr0.97MoO4,Tb3+,0.02,,,298,545,0.2605,0.6339,,,,290,290,,,,545,https://doi.org/10.1002/bio.2971,mp-18834, icsd-193794 icsd-250491 icsd-23700 icsd-28025 icsd-194080 icsd-173125 icsd-173120 icsd-245803 icsd-245802 icsd-173122 icsd-239418 icsd-248458 icsd-99089 icsd-194081,Luminescence,2015
+509,Sr0.91MoO4Sm0.05Tb0.01,Sr0.91MoO4,Sm3+,0.05,Tb3+,0.01,298,545,0.4453,0.5063,,,,290,290,,,,646,https://doi.org/10.1002/bio.2971,mp-18834, icsd-193794 icsd-250491 icsd-23700 icsd-28025 icsd-194080 icsd-173125 icsd-173120 icsd-245803 icsd-245802 icsd-173122 icsd-239418 icsd-248458 icsd-99089 icsd-194081,Luminescence,2015
+510,Sr0.895MoO4Sm0.05Tb0.02,Sr0.895MoO4,Sm3+,0.05,Tb3+,0.02,298,545,0.4238,0.5213,,,,290,290,,,607000,646,https://doi.org/10.1002/bio.2971,mp-18834, icsd-193794 icsd-250491 icsd-23700 icsd-28025 icsd-194080 icsd-173125 icsd-173120 icsd-245803 icsd-245802 icsd-173122 icsd-239418 icsd-248458 icsd-99089 icsd-194081,Luminescence,2015
+511,Sr0.880MoO4Sm0.05Tb0.03,Sr0.880MoO4,Sm3+,0.05,Tb3+,0.03,298,545,0.371,0.5606,,,,290,290,,,,646,https://doi.org/10.1002/bio.2971,mp-18834, icsd-193794 icsd-250491 icsd-23700 icsd-28025 icsd-194080 icsd-173125 icsd-173120 icsd-245803 icsd-245802 icsd-173122 icsd-239418 icsd-248458 icsd-99089 icsd-194081,Luminescence,2015
+512,Sr0.865MoO4Sm0.05Tb0.04,Sr0.865MoO4,Sm3+,0.05,Tb3+,0.04,298,545,0.363,0.567,,,,290,290,,,,646,https://doi.org/10.1002/bio.2971,mp-18834, icsd-193794 icsd-250491 icsd-23700 icsd-28025 icsd-194080 icsd-173125 icsd-173120 icsd-245803 icsd-245802 icsd-173122 icsd-239418 icsd-248458 icsd-99089 icsd-194081,Luminescence,2015
+513,Sr0.85MoO4Sm0.05Tb0.05,Sr0.85MoO4,Sm3+,0.05,Tb3+,0.05,298,545,0.3439,0.5812,,,,290,290,,,,646,https://doi.org/10.1002/bio.2971,mp-18834, icsd-193794 icsd-250491 icsd-23700 icsd-28025 icsd-194080 icsd-173125 icsd-173120 icsd-245803 icsd-245802 icsd-173122 icsd-239418 icsd-248458 icsd-99089 icsd-194081,Luminescence,2015
+514,Gd0.98BO3Ce0.01Tb0.01,Gd0.98BO3,Ce3+,0.01,Tb3+,0.01,298,545,0.212,0.252,,,,356,,,,22.8,412,https://doi.org/10.1016/j.optmat.2014.02.009,"mp-1224628,mp-561949,mp-29762", icsd-87779 icsd-87778,Optical Materials,2014
+515,Gd0.96BO3Ce0.01Tb0.03,Gd0.96BO3,Ce3+,0.01,Tb3+,0.03,298,545,0.249,0.449,,,,356,,,,20.4,412,https://doi.org/10.1016/j.optmat.2014.02.009,"mp-1224628,mp-561949,mp-29762", icsd-87779 icsd-87778,Optical Materials,2014
+516,Gd0.9BO3Ce0.01Tb0.09,Gd0.9BO3,Ce3+,0.01,Tb3+,0.09,298,545,0.272,0.562,,,,356,,,,16.7,412,https://doi.org/10.1016/j.optmat.2014.02.009,"mp-1224628,mp-561949,mp-29762", icsd-87779 icsd-87778,Optical Materials,2014
+517,Gd0.84BO3Ce0.01Tb0.15,Gd0.84BO3,Ce3+,0.01,Tb3+,0.15,298,545,0.291,0.59,,,,356,,,,15.8,412,https://doi.org/10.1016/j.optmat.2014.02.009,"mp-1224628,mp-561949,mp-29762", icsd-87779 icsd-87778,Optical Materials,2014
+518,Sr1.94P2O7Tb0.06,Sr1.94P2O7,Tb3+,0.06,,,298,545,0.2473,0.4185,,,,378,378,,,,545,https://doi.org/10.1111/jace.13497,mp-5616, icsd-31004 icsd-59395 icsd-34467,Journal of the American Ceramic Society,2015
+519,Sr1.92P2O7Tb0.06,Sr1.92P2O7,Tb3+,0.06,,,298,545,0.5599,0.4298,,,,395,,,,,,https://doi.org/10.1111/jace.13497,mp-5616, icsd-31004 icsd-59395 icsd-34467,Journal of the American Ceramic Society,2015
+520,Ca3Gd7PSi5O26Ce0.05Tb0.1,Ca3Gd7PSi5O26,Ce3+,0.05,Tb3+,0.1,298,545,0.186,0.2,,,,286,,,,,,https://doi.org/10.1021/ic3015578,,,Inorganic Chemistry,2012
+521,Ca3Gd7PSi5O26Ce0.05Tb0.12,Ca3Gd7PSi5O26,Ce3+,0.05,Tb3+,0.12,298,545,0.209,0.318,,,,286,,,,,,https://doi.org/10.1021/ic3015578,,,Inorganic Chemistry,2012
+522,Ca3Gd7PSi5O26Ce0.05Tb0.15,Ca3Gd7PSi5O26,Ce3+,0.05,Tb3+,0.15,298,545,0.212,0.329,,,,286,,,,,,https://doi.org/10.1021/ic3015578,,,Inorganic Chemistry,2012
+523,Ca3Gd7PSi5O26Ce0.05Tb0.2,Ca3Gd7PSi5O26,Ce3+,0.05,Tb3+,0.2,298,545,0.222,0.382,,,,286,,,,,,https://doi.org/10.1021/ic3015578,,,Inorganic Chemistry,2012
+524,Ca3Gd7PSi5O26Ce0.05Tb0.25,Ca3Gd7PSi5O26,Ce3+,0.05,Tb3+,0.25,298,545,0.231,0.431,,,,286,,,,,,https://doi.org/10.1021/ic3015578,,,Inorganic Chemistry,2012
+525,Y1.96SiO5Ce0.01Tb0.01,Y1.96SiO5,Ce3+,0.01,Tb3+,0.01,298,545,0.223,0.252,,,,355,355,,,21.07,423,https://doi.org/10.1021/jp412702g,"mp-3520,mp-554420", icsd-291362 icsd-28021 icsd-27003 icsd-291358 icsd-51591 icsd-153076,Journal of Physical Chemistry C,2014
+526,Y1.92SiO5Ce0.01Tb0.03,Y1.92SiO5,Ce3+,0.01,Tb3+,0.03,298,545,0.257,0.333,,,,355,355,,,18.67,423,https://doi.org/10.1021/jp412702g,"mp-3520,mp-554420", icsd-291362 icsd-28021 icsd-27003 icsd-291358 icsd-51591 icsd-153076,Journal of Physical Chemistry C,2014
+527,Y1.8SiO5Ce0.01Tb0.09,Y1.8SiO5,Ce3+,0.01,Tb3+,0.09,298,545,0.312,0.462,,,,355,355,,,17.51,423,https://doi.org/10.1021/jp412702g,"mp-3520,mp-554420", icsd-291362 icsd-28021 icsd-27003 icsd-291358 icsd-51591 icsd-153076,Journal of Physical Chemistry C,2014
+528,Y1.68SiO5Ce0.01Tb0.15,Y1.68SiO5,Ce3+,0.01,Tb3+,0.15,298,545,0.335,0.508,,,,355,355,,,17.08,423,https://doi.org/10.1021/jp412702g,"mp-3520,mp-554420", icsd-291362 icsd-28021 icsd-27003 icsd-291358 icsd-51591 icsd-153076,Journal of Physical Chemistry C,2014
+529,Y1.38SiO5Ce0.01Tb0.3,Y1.38SiO5,Ce3+,0.01,Tb3+,0.3,298,545,0.374,0.508,,,,355,355,,,16.23,423,https://doi.org/10.1021/jp412702g,"mp-3520,mp-554420", icsd-291362 icsd-28021 icsd-27003 icsd-291358 icsd-51591 icsd-153076,Journal of Physical Chemistry C,2014
+530,Y0.98SiO5Ce0.01Tb0.5,Y0.98SiO5,Ce3+,0.01,Tb3+,0.5,298,545,0.385,0.501,,,,355,355,,,1566000,545,https://doi.org/10.1021/jp412702g,"mp-3520,mp-554420", icsd-291362 icsd-28021 icsd-27003 icsd-291358 icsd-51591 icsd-153076,Journal of Physical Chemistry C,2014
+531,Sr3In0.86P3O12Ce0.07Tb0.07,Sr3In0.86P3O12,Ce3+,0.07,Tb3+,0.07,298,545,0.273,0.362,58,,,318,,,,,,https://doi.org/10.1039/C2JM32392C,mp-1192241, icsd-2395,Journal of Materials Chemistry,2012
+532,Sr3In0.83P3O12Ce0.07Tb0.1,Sr3In0.83P3O12,Ce3+,0.07,Tb3+,0.1,298,545,0.277,0.38,68,,,318,,,,,,https://doi.org/10.1039/C2JM32392C,mp-1192241, icsd-2395,Journal of Materials Chemistry,2012
+533,Sr3In0.78P3O12Ce0.07Tb0.15,Sr3In0.78P3O12,Ce3+,0.07,Tb3+,0.15,298,545,0.281,0.398,65,,,318,,,,,,https://doi.org/10.1039/C2JM32392C,mp-1192241, icsd-2395,Journal of Materials Chemistry,2012
+534,Sr3In0.73P3O12Ce0.07Tb0.2,Sr3In0.73P3O12,Ce3+,0.07,Tb3+,0.2,298,545,0.292,0.439,42,,,318,,,,,,https://doi.org/10.1039/C2JM32392C,mp-1192241, icsd-2395,Journal of Materials Chemistry,2012
+535,Sr3In0.63P3O12Ce0.07Tb0.3,Sr3In0.63P3O12,Ce3+,0.07,Tb3+,0.3,298,545,0.303,0.485,31,,,318,,,,,,https://doi.org/10.1039/C2JM32392C,mp-1192241, icsd-2395,Journal of Materials Chemistry,2012
+536,Sr3La0.67P3O12Ce0.08Tb0.25,Sr3La0.67P3O12,Ce3+,0.08,Tb3+,0.25,298,545,0.33,0.54,,,,254,,,,,,https://doi.org/10.1149/1.3384662,,,Journal of The Electrochemical Society,2010
+537,Ca2Tb8Si6O26,Ca2Tb8Si6O26,,,,,298,545,0.35,0.51,,,,238,238,,,4418000,545,https://doi.org/10.1016/j.jlumin.2015.08.009,,,Journal of Luminescence,2015
+538,Zn0.9WO4Li0.05Tb0.05,Zn0.9WO4Li0.05,Tb3+,0.05,,,298,545,0.25,0.365,,,,272,272,,,359000,545,https://doi.org/10.1016/j.ijleo.2013.03.067,"mp-18918,mp-545622,mp-1205356,mp-645124,mp-1205368", icsd-166209 icsd-162236 icsd-186161 icsd-166215 icsd-22348 icsd-186162 icsd-87933 icsd-162678 icsd-166211 icsd-156483 icsd-166208 icsd-156482 icsd-166213 icsd-162682 icsd-162681 icsd-166210 icsd-166214 icsd-162683 icsd-166216 icsd-166212 icsd-162680 icsd-162234 icsd-162235 icsd-162679 icsd-84540 icsd-162237 icsd-162238,Optik,2013
+539,Zn0.9WO4Na0.05Tb0.05,Zn0.9WO4Na0.05,Tb3+,0.05,,,298,545,0.24,0.335,,,,272,272,,,266000,545,https://doi.org/10.1016/j.ijleo.2013.03.067,"mp-18918,mp-545622,mp-1205356,mp-645124,mp-1205368", icsd-166209 icsd-162236 icsd-186161 icsd-166215 icsd-22348 icsd-186162 icsd-87933 icsd-162678 icsd-166211 icsd-156483 icsd-166208 icsd-156482 icsd-166213 icsd-162682 icsd-162681 icsd-166210 icsd-166214 icsd-162683 icsd-166216 icsd-166212 icsd-162680 icsd-162234 icsd-162235 icsd-162679 icsd-84540 icsd-162237 icsd-162238,Optik,2013
+540,Zn0.9WO4K0.05Tb0.05,Zn0.9WO4K0.05,Tb3+,0.05,,,298,545,0.3,0.395,,,,272,272,,,100000,545,https://doi.org/10.1016/j.ijleo.2013.03.067,"mp-18918,mp-545622,mp-1205356,mp-645124,mp-1205368", icsd-166209 icsd-162236 icsd-186161 icsd-166215 icsd-22348 icsd-186162 icsd-87933 icsd-162678 icsd-166211 icsd-156483 icsd-166208 icsd-156482 icsd-166213 icsd-162682 icsd-162681 icsd-166210 icsd-166214 icsd-162683 icsd-166216 icsd-166212 icsd-162680 icsd-162234 icsd-162235 icsd-162679 icsd-84540 icsd-162237 icsd-162238,Optik,2013
+541,Zn0.925WO4Tb0.05,Zn0.925WO4,Tb3+,0.05,,,298,545,0.295,0.4,,,,272,272,,,374000,545,https://doi.org/10.1016/j.ijleo.2013.03.067,"mp-18918,mp-545622,mp-1205356,mp-645124,mp-1205368", icsd-166209 icsd-162236 icsd-186161 icsd-166215 icsd-22348 icsd-186162 icsd-87933 icsd-162678 icsd-166211 icsd-156483 icsd-166208 icsd-156482 icsd-166213 icsd-162682 icsd-162681 icsd-166210 icsd-166214 icsd-162683 icsd-166216 icsd-166212 icsd-162680 icsd-162234 icsd-162235 icsd-162679 icsd-84540 icsd-162237 icsd-162238,Optik,2013
+542,KSrGdP2O8Ce0.04Tb0.1,KSrGdP2O8,Ce3+,0.04,Tb3+,0.1,298,545,,,93,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+543,KSrGdP2O8Ce0.04Tb0.13,KSrGdP2O8,Ce3+,0.04,Tb3+,0.13,298,545,,,95,,,280,,,,28.72,370,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+544,KSrGdP2O8Ce0.04Tb0.16,KSrGdP2O8,Ce3+,0.04,Tb3+,0.16,298,545,,,95,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+545,KSrGdP2O8Ce0.04Tb0.2,KSrGdP2O8,Ce3+,0.04,Tb3+,0.2,298,545,,,97,,,280,,,,16.63,370,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+546,KSrGdP2O8Ce0.04Tb0.25,KSrGdP2O8,Ce3+,0.04,Tb3+,0.25,298,545,,,99,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+547,Sr2.95Y0.91P3O12Eu0.05Tb0.09,Sr2.95Y0.91P3O12,Eu2+,0.05,Tb3+,0.09,298,545,0.201,0.39,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+548,Sr2.95Y0.87P3O12Eu0.05Tb0.13,Sr2.95Y0.87P3O12,Eu2+,0.05,Tb3+,0.13,298,545,0.203,0.396,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+549,Sr2.95Y0.85P3O12Eu0.05Tb0.15,Sr2.95Y0.85P3O12,Eu2+,0.05,Tb3+,0.15,298,545,0.205,0.41,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+550,Sr2.95Y0.8P3O12Eu0.05Tb0.2,Sr2.95Y0.8P3O12,Eu2+,0.05,Tb3+,0.2,298,545,0.211,0.421,,,,350,,,,,,https://doi.org/10.1016/j.jre.2017.06.013,,,Journal of Rare Earths,2018
+551,Lu2O2STb0.02,Lu2O2S,Tb3+,0.02,,,298,545,0.316,0.5747,29.1,,,280,280,,,9544000,545,https://doi.org/10.1039/C6CE01441K,mp-12673, icsd-109336,CrystEngComm,2016
+552,Lu2O2STb0.02Eu0.01,Lu2O2S,Tb3+,0.02,Eu3+,0.01,298,545,0.3689,0.469,25.4,,,280,,,,8220000,,https://doi.org/10.1039/C6CE01441K,mp-12673, icsd-109336,CrystEngComm,2016
+553,Lu2O2STb0.02Eu0.02,Lu2O2S,Tb3+,0.02,Eu3+,0.02,298,545,0.3708,0.433,29.8,,,280,,,,7125000,,https://doi.org/10.1039/C6CE01441K,mp-12673, icsd-109336,CrystEngComm,2016
+554,K2Y0.5WPO8Tb0.5,K2Y0.5WPO8,Tb3+,0.5,,,298,545,0.338,0.585,,,,377,377,370,352,21480000,545,https://doi.org/10.1016/j.materresbull.2014.08.051,,,Materials Research Bulletin,2014
+555,K2Y0.499WPO8Tb0.5Eu0.001,K2Y0.499WPO8,Tb3+,0.5,Eu3+,0.001,298,545,0.4,0.539,,,,377,377,,,17050000,545,https://doi.org/10.1016/j.materresbull.2014.08.051,,,Materials Research Bulletin,2014
+556,K2Y0.498WPO8Tb0.5Eu0.002,K2Y0.498WPO8,Tb3+,0.5,Eu3+,0.002,298,545,0.434,0.512,,,,377,377,,,15460000,545,https://doi.org/10.1016/j.materresbull.2014.08.051,,,Materials Research Bulletin,2014
+557,K2Y0.496WPO8Tb0.5Eu0.004,K2Y0.496WPO8,Tb3+,0.5,Eu3+,0.004,298,545,0.459,0.493,,,,377,377,,,14300000,545,https://doi.org/10.1016/j.materresbull.2014.08.051,,,Materials Research Bulletin,2014
+558,K2Y0.494WPO8Tb0.5Eu0.006,K2Y0.494WPO8,Tb3+,0.5,Eu3+,0.006,298,545,0.468,0.486,,,,377,377,,,14020000,545,https://doi.org/10.1016/j.materresbull.2014.08.051,,,Materials Research Bulletin,2014
+559,Sr8ZnScP7O28Tb0.02,Sr8ZnScP7O28,Tb3+,0.02,,,298,546,0.205,0.186,,,,370,370,378,352,1.17,546,https://doi.org/10.1039/C8TC03515F,,,Journal of Materials Chemistry C,2018
+560,Sr8ZnScP7O28Tb0.06,Sr8ZnScP7O28,Tb3+,0.06,,,298,546,0.215,0.273,,,,370,370,378,352,,546,https://doi.org/10.1039/C8TC03515F,,,Journal of Materials Chemistry C,2018
+561,Sr8ZnScP7O28Tb0.1,Sr8ZnScP7O28,Tb3+,0.1,,,298,546,0.219,0.303,,,,370,,,,1.05,546,https://doi.org/10.1039/C8TC03515F,,,Journal of Materials Chemistry C,2018
+562,Sr8ZnScP7O28Tb0.12,Sr8ZnScP7O28,Tb3+,0.12,,,298,546,0.241,0.376,,,,370,,,,,546,https://doi.org/10.1039/C8TC03515F,,,Journal of Materials Chemistry C,2018
+563,Sr8ZnScP7O28Tb0.14,Sr8ZnScP7O28,Tb3+,0.14,,,298,546,0.245,0.411,,,,370,370,378,352,1.71,546,https://doi.org/10.1039/C8TC03515F,,,Journal of Materials Chemistry C,2018
+564,Sr0.23Ca0.75Si2O2N2Eu0.02,Sr0.23Ca0.75Si2O2N2,Eu2+,0.02,,,298,546,0.378,0.581,81,,500,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+565,Sr0.92Si2O2N2Eu0.08,Sr0.92Si2O2N2,Eu2+,0.08,,,298,546,0.384,0.59,83,,537,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+566,Sr0.92Si2N2O2Eu0.08,Sr0.92Si2N2O2,Eu3+,0.08,,,298,546,0.384,0.59,83,,537,450,,,,800,546,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+567,Sr0.84Si2N2O2Eu0.02,Sr0.84Si2N2O2,Eu3+,0.02,,,298,546,0.378,0.581,81,,,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+568,Na1.96MgSiO4Tb0.04,Na1.96MgSiO4,Tb3+,0.04,,,298,546,0.32,0.51,,,,376,376,,,2930000,546,https://doi.org/10.1016/j.jlumin.2017.05.003,"mp-6406,mp-6426", icsd-15619 icsd-15618 icsd-84562 icsd-84563,Journal of Luminescence,2017
+569,Na1.9599MgSiO4Tb0.04Eu0.0001,Na1.9599MgSiO4,Tb3+,0.04,Eu3+,0.0001,298,546,0.35,0.47,,,,376,,,,2750000,546,https://doi.org/10.1016/j.jlumin.2017.05.003,"mp-6406,mp-6426", icsd-15619 icsd-15618 icsd-84562 icsd-84563,Journal of Luminescence,2017
+570,CaWO4Tb0.02,CaWO4,Tb3+,0.02,,,298,546,0.187,0.199,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+571,CaWO4Tb0.04,CaWO4,Tb3+,0.04,,,298,546,0.212,0.302,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+572,CaWO4Tb0.04,CaWO4,Tb3+,0.04,,,298,546,,,,,,264,,,,621800,546,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+573,CaWO4Tb0.06,CaWO4,Tb3+,0.06,,,298,546,0.236,0.407,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+574,CaWO4Tb0.08,CaWO4,Tb3+,0.08,,,298,546,0.251,0.542,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+575,CaWO4Tb0.1,CaWO4,Tb3+,0.1,,,298,546,0.255,0.56,24.6,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+576,CaWO4Tb0.04Eu0.01,CaWO4,Tb3+,0.04,Eu3+,0.01,298,546,0.229,0.337,,,,264,,,,605800,546,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+577,CaWO4Tb0.04Eu0.02,CaWO4,Tb3+,0.04,Eu3+,0.02,298,546,0.245,0.367,,,,264,,,,582500,546,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+578,CaWO4Tb0.04Eu0.04,CaWO4,Tb3+,0.04,Eu3+,0.04,298,546,0.257,0.346,,,,264,,,,551400,546,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+579,CaWO4Tb0.04Eu0.06,CaWO4,Tb3+,0.04,Eu3+,0.06,298,546,0.294,0.329,,,,264,,,,521500,546,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+580,CaWO4Eu0.01Tb0.01,CaWO4,Eu3+,0.01,Tb3+,0.01,298,546,0.23,0.232,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+581,CaWO4Eu0.01Tb0.02,CaWO4,Eu3+,0.01,Tb3+,0.02,298,546,0.251,0.303,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+582,CaWO4Eu0.01Tb0.04,CaWO4,Eu3+,0.01,Tb3+,0.04,298,546,0.269,0.401,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+583,CaWO4Eu0.01Tb0.06,CaWO4,Eu3+,0.01,Tb3+,0.06,298,546,0.277,0.462,,,,264,,,,,,https://doi.org/10.1039/C6RA01862A,"mp-19426,mp-1190383", icsd-60550 icsd-193491 icsd-60548 icsd-60551 icsd-15869 icsd-155423 icsd-193047 icsd-15586 icsd-60549 icsd-18135 icsd-77335 icsd-157428 icsd-291535 icsd-60547 icsd-155791 icsd-238259 icsd-238258,RSC Advances,2016
+584,Ba3Gd0.95KP3O12FTb0.05,Ba3Gd0.95KP3O12F,Tb3+,0.05,,,298,546,0.238,0.311,19.3,,,276,276,,,,546,https://doi.org/10.1039/C5RA11844A,,,RSC Advances,2015
+585,Ba3Gd0.925KP3O12FTb0.05Eu0.025,Ba3Gd0.925KP3O12F,Tb3+,0.05,Eu3+,0.025,298,546,0.341,0.318,10.4,,523,276,276,,,,546,https://doi.org/10.1039/C5RA11844A,,,RSC Advances,2015
+586,LiGdW2O8Tb0.05,LiGdW2O8,Tb3+,0.05,,,298,547,0.277,0.583,,,,272,390,,,,547,https://doi.org/10.1039/C5RA19345A,"mp-1210920,mp-1222332",,RSC Advances,2015
+587,LiGdW2O8Tm0.02Tb0.04,LiGdW2O8,Tm3+,0.02,Tb3+,0.04,298,547,0.279,0.418,,,,360,,,,,,https://doi.org/10.1039/C5RA19345A,"mp-1210920,mp-1222332",,RSC Advances,2015
+588,LiGdW2O8Tm0.02Tb0.04,LiGdW2O8,Tm3+,0.02,Tb3+,0.04,298,547,,,,,,272,,,,5260000,547,https://doi.org/10.1039/C5RA19345A,"mp-1210920,mp-1222332",,RSC Advances,2015
+589,Ba2B2O5Ce0.005,Ba2B2O5,Ce3+,0.005,,,298,548,0.161,0.087,,,,353,,,,16.4435,420,https://doi.org/10.1111/jace.14766,"mp-771158,mp-753413,mp-768345,mp-771174",,Journal of the American Ceramic Society,2017
+590,Ba2B2O5Ce0.005Tb0.01,Ba2B2O5,Ce3+,0.005,Tb3+,0.01,298,548,,,,,,353,,,,15.99,420,https://doi.org/10.1111/jace.14766,"mp-771158,mp-753413,mp-768345,mp-771174",,Journal of the American Ceramic Society,2017
+591,Ba2B2O5Ce0.005Tb0.02,Ba2B2O5,Ce3+,0.005,Tb3+,0.02,298,548,,,,,,353,,,,15.2871,420,https://doi.org/10.1111/jace.14766,"mp-771158,mp-753413,mp-768345,mp-771174",,Journal of the American Ceramic Society,2017
+592,Ba2B2O5Ce0.005Tb0.03,Ba2B2O5,Ce3+,0.005,Tb3+,0.03,298,548,,,,,,353,,,,14.7597,420,https://doi.org/10.1111/jace.14766,"mp-771158,mp-753413,mp-768345,mp-771174",,Journal of the American Ceramic Society,2017
+593,Ba2B2O5Ce0.005Tb0.05,Ba2B2O5,Ce3+,0.005,Tb3+,0.05,298,548,,,,,,353,,,,12.0435,420,https://doi.org/10.1111/jace.14766,"mp-771158,mp-753413,mp-768345,mp-771174",,Journal of the American Ceramic Society,2017
+594,Ba2B2O5Ce0.005Tb0.1,Ba2B2O5,Ce3+,0.005,Tb3+,0.1,298,548,,,,,,353,,,,11.7999,420,https://doi.org/10.1111/jace.14766,"mp-771158,mp-753413,mp-768345,mp-771174",,Journal of the American Ceramic Society,2017
+595,Sr0.48Ba0.5Si2O2N2Eu0.02,Sr0.48Ba0.5Si2O2N2,Eu2+,0.02,,,298,548,0.401,0.573,91,,560,450,,,,,,https://doi.org/10.1021/cm802394w,mp-6764, icsd-419450 icsd-173758,Chemistry of Materials,2008
+596,CaYAlO4Tb0.001,CaYAlO4,Tb3+,0.001,,,298,548,,,7,,,248,248,,,1120000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+597,CaYAlO4Tb0.003,CaYAlO4,Tb3+,0.003,,,298,548,,,9,,,248,248,,,1140000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+598,CaYAlO4Tb0.005,CaYAlO4,Tb3+,0.005,,,298,548,,,11,,,248,248,,,1260000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+599,CaYAlO4Tb0.01,CaYAlO4,Tb3+,0.01,,,298,548,,,13,,,248,248,,,1430000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+600,CaYAlO4Tb0.03,CaYAlO4,Tb3+,0.03,,,298,548,,,15,,,248,248,,,1670000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+601,CaYAlO4Tb0.05,CaYAlO4,Tb3+,0.05,,,298,548,,,18,,,248,248,,,2060000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+602,CaYAlO4Tb0.07,CaYAlO4,Tb3+,0.07,,,298,548,,,17,,,248,248,,,1890000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+603,CaYAlO4Tb0.09,CaYAlO4,Tb3+,0.09,,,298,548,,,13,,,248,248,,,1710000,548,https://doi.org/10.1039/C2DT12222G,mp-1227044,,Dalton Transactions,2012
+604,MgYSi2O5NCe0.01Tb0.02,MgYSi2O5N,Ce3+,0.01,Tb3+,0.02,298,548,0.205,0.229,,,,365,365,305,,49.72,393,https://doi.org/10.1016/j.dyepig.2016.12.012,,,Dyes and Pigments,2017
+605,MgYSi2O5NCe0.01Tb0.03,MgYSi2O5N,Ce3+,0.01,Tb3+,0.03,298,548,0.208,0.246,,,,365,365,,,39.53,393,https://doi.org/10.1016/j.dyepig.2016.12.012,,,Dyes and Pigments,2017
+606,MgYSi2O5NCe0.01Tb0.04,MgYSi2O5N,Ce3+,0.01,Tb3+,0.04,298,548,0.232,0.327,,,,365,365,,,33.72,393,https://doi.org/10.1016/j.dyepig.2016.12.012,,,Dyes and Pigments,2017
+607,Ba2GdB2O6ClEu0.03,Ba2GdB2O6Cl,Eu3+,0.03,,,298,548,,,,,523,365,365,,,1400,548,https://doi.org/10.1021/ic200988w,mp-866304, icsd-262073,Inorganic Chemistry,2011
+608,Sr0.48Ba0.5Si2N2O2Eu0.02,Sr0.48Ba0.5Si2N2O2,Eu3+,0.02,,,298,548,0.401,0.573,91,,560,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+609,YNb0.6V0.4O4Bi0.01,YNb0.6V0.4O4,Bi3+,0.01,,,298,548,0.375,0.457,47.5,,,310,,,,,,https://doi.org/10.1021/acs.chemmater.6b00277,"mp-5387,mp-1095229", icsd-430911 icsd-20335 icsd-100176 icsd-239207 icsd-430907 icsd-430914 icsd-430913 icsd-430912 icsd-430908 icsd-430916 icsd-430909 icsd-430015 icsd-430910 icsd-430919 icsd-430922 icsd-239208 icsd-430917 icsd-239209 icsd-430920 icsd-430921 icsd-430918,Chemistry of Materials,2016
+610,CaZrO3Er0.03,CaZrO3,Er3+,0.03,,,298,548,0.298,0.677,,,,380,380,,,,548,https://doi.org/10.1016/j.materresbull.2012.06.022,mp-18740, icsd-24191 icsd-62081,Materials Research Bulletin,2012
+611,CaZrO3Er0.03Ce0.02,CaZrO3,Er3+,0.03,Ce3+,0.02,298,548,0.284,0.674,,,,380,,,,,,https://doi.org/10.1016/j.materresbull.2012.06.022,mp-18740, icsd-24191 icsd-62081,Materials Research Bulletin,2012
+612,Ca9Bi0.17P7O28Ce0.08Tb0.75,Ca9Bi0.17P7O28,Ce3+,0.08,Tb3+,0.75,298,548,0.255,0.507,77,,,292,,,,,,https://doi.org/10.1039/C5TC00927H,,,Journal of Materials Chemistry C,2015
+613,Ca9Bi0.02P7O28Ce0.08Tb0.9,Ca9Bi0.02P7O28,Ce3+,0.08,Tb3+,0.9,298,548,0.26,0.569,84,,,292,,,,17.9,370,https://doi.org/10.1039/C5TC00927H,,,Journal of Materials Chemistry C,2015
+614,K2CaP2O7Ce0.02Tb0.16,K2CaP2O7,Ce3+,0.02,Tb3+,0.16,298,549,0.2444,0.5288,,,,316,,,,16.847,358,https://doi.org/10.1111/jace.14470,mp-555914, icsd-281572,Journal of the American Ceramic Society,2016
+615,K2CaP2O7Ce0.02Tb0.2,K2CaP2O7,Ce3+,0.02,Tb3+,0.2,298,549,0.2411,0.5044,,,,316,,,,16.811,358,https://doi.org/10.1111/jace.14470,mp-555914, icsd-281572,Journal of the American Ceramic Society,2016
+616,Ba3La0.99KP3O12FTb0.01,Ba3La0.99KP3O12F,Tb3+,0.01,,,298,549,0.21,0.196,,,,225,225,374,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+617,Ba3La0.99KP3O12FTb0.01,Ba3La0.99KP3O12F,Tb3+,0.01,,,298,549,,,,,,374,225,,,5640,419,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+618,Ba3La0.97KP3O12FTb0.03,Ba3La0.97KP3O12F,Tb3+,0.03,,,298,549,0.226,0.251,,,,225,224,374,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+619,Ba3La0.95KP3O12FTb0.05,Ba3La0.95KP3O12F,Tb3+,0.05,,,298,549,0.25,0.323,,,,225,226,374,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+620,Ba3La0.9KP3O12FTb0.1,Ba3La0.9KP3O12F,Tb3+,0.1,,,298,549,0.28,0.421,,,,225,227,374,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+621,Ba3La0.85KP3O12FTb0.15,Ba3La0.85KP3O12F,Tb3+,0.15,,,298,549,0.296,0.474,,,,225,228,374,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+622,Ba3La0.8KP3O12FTb0.2,Ba3La0.8KP3O12F,Tb3+,0.2,,,298,549,0.306,0.504,,,,225,229,374,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+623,Ba3La0.7KP3O12FTb0.3,Ba3La0.7KP3O12F,Tb3+,0.3,,,298,549,0.314,0.534,,,,225,230,374,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+624,Ba3La0.6KP3O12FTb0.4,Ba3La0.6KP3O12F,Tb3+,0.4,,,298,549,0.319,0.549,,,,225,374,232,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+625,Ba3La0.6KP3O12FTb0.4,Ba3La0.6KP3O12F,Tb3+,0.4,,,298,549,,,,,,374,374,232,,906000,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+626,Ba3La0.5KP3O12FTb0.5,Ba3La0.5KP3O12F,Tb3+,0.5,,,298,549,0.321,0.554,,,,225,374,232,,,549,https://doi.org/10.1016/j.materresbull.2015.12.008,,,Materials Research Bulletin,2016
+627,Ba3In3.92P6O24Tb0.02,Ba3In3.92P6O24,Tb3+,0.02,,,298,549,0.2697,0.4224,,,,231,231,,,,549,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+628,Ba3In3.88P6O24Tb0.03,Ba3In3.88P6O24,Tb3+,0.03,,,298,549,0.2859,0.4829,,,,231,231,,,,549,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+629,Ba3In3.84P6O24Tb0.04,Ba3In3.84P6O24,Tb3+,0.04,,,298,549,0.2929,0.509,,,,231,231,,,,549,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+630,Ba3In3.80P6O24Tb0.05,Ba3In3.80P6O24,Tb3+,0.05,,,298,549,0.2991,0.5324,,,,231,231,,,,549,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+631,Ba3In3.76P6O24Tb0.06,Ba3In3.76P6O24,Tb3+,0.06,,,298,549,0.3031,0.5489,,,,231,231,,,,549,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+632,Ba3In3.68P6O24Tb0.08,Ba3In3.68P6O24,Tb3+,0.08,,,298,549,0.3061,0.5596,,,,231,231,,,,549,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+633,Ba3In3.9P6O24Eu0.01Tb0.015,Ba3In3.9P6O24,Eu3+,0.01,Tb3+,0.015,298,549,0.359,0.3926,,,,233,,,,,,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+634,Ba3In3.88P6O24Eu0.01Tb0.02,Ba3In3.88P6O24,Eu3+,0.01,Tb3+,0.02,298,549,0.3497,0.4252,,,,233,,,,,,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+635,Ba3In3.86P6O24Eu0.01Tb0.025,Ba3In3.86P6O24,Eu3+,0.01,Tb3+,0.025,298,549,0.3479,0.4544,,,,233,,,,,,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+636,Ba3In3.9P6O24Tb0.015Eu0.01,Ba3In3.9P6O24,Tb3+,0.015,Eu3+,0.01,298,549,0.3438,0.3956,31.4,,,233,,,,3810000,549,https://doi.org/10.1016/j.jallcom.2019.05.059,,,Journal of Alloys and Compounds,2019
+637,La4.5Si3O12NCe0.06Tb0.04,La4.5Si3O12N,Ce3+,0.06,Tb3+,0.04,298,549,0.1952,0.2936,,,,365,,,,81.97,460,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+638,La4.45Si3O12NCe0.06Tb0.05,La4.45Si3O12N,Ce3+,0.06,Tb3+,0.05,298,549,0.2028,0.3144,,,,365,,,,,,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+639,La4.4Si3O12NCe0.06Tb0.06,La4.4Si3O12N,Ce3+,0.06,Tb3+,0.06,298,549,0.2116,0.339,,,,365,,,,61.4,460,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+640,La4.35Si3O12NCe0.06Tb0.07,La4.35Si3O12N,Ce3+,0.06,Tb3+,0.07,298,549,0.2189,0.357,,,,365,,,,,,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+641,La4.3Si3O12NCe0.06Tb0.08,La4.3Si3O12N,Ce3+,0.06,Tb3+,0.08,298,549,0.225,0.3734,,,,365,,,,40.6,460,https://doi.org/10.1016/j.jlumin.2015.08.030,,,Journal of Luminescence,2016
+642,Ba2Y1.76P2O12SiCe0.14Tb0.1,Ba2Y1.76P2O12Si,Ce3+,0.14,Tb3+,0.1,298,549,0.186,0.204,75.3,,,365,,,,37.9,409,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+643,Ba2Y1.72P2O12SiCe0.14Tb0.14,Ba2Y1.72P2O12Si,Ce3+,0.14,Tb3+,0.14,298,549,0.192,0.223,89.2,,,365,,,,,,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+644,Ba2Y1.68P2O12SiCe0.14Tb0.18,Ba2Y1.68P2O12Si,Ce3+,0.14,Tb3+,0.18,298,549,0.201,0.262,85,,,365,,,,,,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+645,Ba2Y1.62P2O12SiCe0.14Tb0.24,Ba2Y1.62P2O12Si,Ce3+,0.14,Tb3+,0.24,298,549,0.207,0.285,75.3,,,365,,,,,,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+646,Ba2Y1.56P2O12SiCe0.14Tb0.3,Ba2Y1.56P2O12Si,Ce3+,0.14,Tb3+,0.3,298,549,0.225,0.357,58.9,,570,365,,,,29.3,409,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+647,Ba2Y1.44P2O12SiCe0.14Tb0.42,Ba2Y1.44P2O12Si,Ce3+,0.14,Tb3+,0.42,298,549,0.227,0.367,59.8,,,365,,,,,,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+648,Ca5Zn4V6O24,Ca5Zn4V6O24,,,,,298,550,0.425,0.511,15.9,,358,320,350,,,1714,550,https://doi.org/10.1364/OE.20.004360,,,Optics Express,2012
+649,Bi3.95Ti3O12Er0.05,Bi3.95Ti3O12,Er3+,0.05,,,298,550,0.2714,0.7121,,,,488,,,,,550,https://doi.org/10.1016/j.ceramint.2015.01.062,"mp-723064,mp-23427,mp-558277,mp-622198,mp-1179025,mp-23335", icsd-70000 icsd-59796 icsd-159930 icsd-151452 icsd-163544 icsd-87809 icsd-87808 icsd-240210 icsd-87810 icsd-159929 icsd-237194 icsd-151886 icsd-16488 icsd-195919 icsd-195916 icsd-87811 icsd-24735 icsd-195918 icsd-195917,Ceramics International,2015
+650,Bi3.9Ti3O12Er0.1,Bi3.9Ti3O12,Er3+,0.1,,,298,550,0.2904,0.6936,,,,488,488,,,,550,https://doi.org/10.1016/j.ceramint.2015.01.062,"mp-723064,mp-23427,mp-558277,mp-622198,mp-1179025,mp-23335", icsd-70000 icsd-59796 icsd-159930 icsd-151452 icsd-163544 icsd-87809 icsd-87808 icsd-240210 icsd-87810 icsd-159929 icsd-237194 icsd-151886 icsd-16488 icsd-195919 icsd-195916 icsd-87811 icsd-24735 icsd-195918 icsd-195917,Ceramics International,2015
+651,Bi3.8Ti3O12Er0.2,Bi3.8Ti3O12,Er3+,0.2,,,298,550,0.2931,0.6922,,,,488,488,450,,,550,https://doi.org/10.1016/j.ceramint.2015.01.062,"mp-723064,mp-23427,mp-558277,mp-622198,mp-1179025,mp-23335", icsd-70000 icsd-59796 icsd-159930 icsd-151452 icsd-163544 icsd-87809 icsd-87808 icsd-240210 icsd-87810 icsd-159929 icsd-237194 icsd-151886 icsd-16488 icsd-195919 icsd-195916 icsd-87811 icsd-24735 icsd-195918 icsd-195917,Ceramics International,2015
+652,Bi3.7Ti3O12Er0.3,Bi3.7Ti3O12,Er3+,0.3,,,298,550,0.3082,0.6775,,,,488,,,,,550,https://doi.org/10.1016/j.ceramint.2015.01.062,"mp-723064,mp-23427,mp-558277,mp-622198,mp-1179025,mp-23335", icsd-70000 icsd-59796 icsd-159930 icsd-151452 icsd-163544 icsd-87809 icsd-87808 icsd-240210 icsd-87810 icsd-159929 icsd-237194 icsd-151886 icsd-16488 icsd-195919 icsd-195916 icsd-87811 icsd-24735 icsd-195918 icsd-195917,Ceramics International,2015
+653,Ba0.32Sr0.6YSi2Al2O2N5Eu0.08,Ba0.32Sr0.6YSi2Al2O2N5,Eu2+,0.08,,,298,550,0.4075,0.529,,,,365,,,,,,https://doi.org/10.1039/C0JM03573D,,,Journal of Materials Chemistry,2011
+654,BaLu5.52Si7O24Ce0.18Tb0.3,BaLu5.52Si7O24,Ce3+,0.18,Tb3+,0.3,298,550,0.201,0.25,70,,,350,350,,,28.88,402,https://doi.org/10.1016/j.dyepig.2016.12.059,,,Dyes and Pigments,2017
+655,BaLu5.4Si7O24Ce0.18Tb0.42,BaLu5.4Si7O24,Ce3+,0.18,Tb3+,0.42,298,550,0.215,0.312,70,,,350,350,,,,402,https://doi.org/10.1016/j.dyepig.2016.12.059,,,Dyes and Pigments,2017
+656,BaLu5.22Si7O24Ce0.18Tb0.6,BaLu5.22Si7O24,Ce3+,0.18,Tb3+,0.6,298,550,0.226,0.362,69.7,,,350,350,,,18.5,402,https://doi.org/10.1016/j.dyepig.2016.12.059,,,Dyes and Pigments,2017
+657,BaLu5.02Si7O24Ce0.18Tb0.8,BaLu5.02Si7O24,Ce3+,0.18,Tb3+,0.8,298,550,0.236,0.408,67.2,,,350,350,,,,402,https://doi.org/10.1016/j.dyepig.2016.12.059,,,Dyes and Pigments,2017
+658,BaLu4.82Si7O24Ce0.18Tb1,BaLu4.82Si7O24,Ce3+,0.18,Tb3+,1,298,550,0.247,0.454,61.7,,500,350,350,,,,402,https://doi.org/10.1016/j.dyepig.2016.12.059,,,Dyes and Pigments,2017
+659,BaLu4.62Si7O24Ce0.18Tb1.2,BaLu4.62Si7O24,Ce3+,0.18,Tb3+,1.2,298,550,0.252,0.476,55.2,,,350,350,,,13.77,402,https://doi.org/10.1016/j.dyepig.2016.12.059,,,Dyes and Pigments,2017
+660,BaLu1.86Si3O10Ce0.06Tb0.06,BaLu1.86Si3O10,Ce3+,0.06,Tb3+,0.06,298,550,0.19,0.22,66.4,,,365,,,,29.85,423,https://doi.org/10.1039/C6TC00579A,,,Journal of Materials Chemistry C,2016
+661,BaLu1.84Si3O10Ce0.06Tb0.1,BaLu1.84Si3O10,Ce3+,0.06,Tb3+,0.1,298,550,0.208,0.293,60.5,,,365,,,,,423,https://doi.org/10.1039/C6TC00579A,,,Journal of Materials Chemistry C,2016
+662,BaLu1.8Si3O10Ce0.06Tb0.14,BaLu1.8Si3O10,Ce3+,0.06,Tb3+,0.14,298,550,0.218,0.335,54.1,,,365,,,,,423,https://doi.org/10.1039/C6TC00579A,,,Journal of Materials Chemistry C,2016
+663,BaLu1.74Si3O10Ce0.06Tb0.2,BaLu1.74Si3O10,Ce3+,0.06,Tb3+,0.2,298,550,0.236,0.415,50.9,,,365,,,,24.71,423,https://doi.org/10.1039/C6TC00579A,,,Journal of Materials Chemistry C,2016
+664,BaLu1.62Si3O10Ce0.06Tb0.32,BaLu1.62Si3O10,Ce3+,0.06,Tb3+,0.32,298,550,0.248,0.466,45.1,,,365,,,,22.29,423,https://doi.org/10.1039/C6TC00579A,,,Journal of Materials Chemistry C,2016
+665,BaLu1.5Si3O10Ce0.06Tb0.44,BaLu1.5Si3O10,Ce3+,0.06,Tb3+,0.44,298,550,0.256,0.5,40.9,,,365,,,,18.59,423,https://doi.org/10.1039/C6TC00579A,,,Journal of Materials Chemistry C,2016
+666,Na3Bi0.87P2O8Eu0.03Tb0.1,Na3Bi0.87P2O8,Eu2+,0.03,Tb3+,0.1,298,550,0.445,0.497,36.64,,,396,,,,2500000,621,https://doi.org/10.1016/j.jlumin.2016.12.012,mp-561083, icsd-71362,Journal of Luminescence,2017
+667,Na3Bi0.85P2O8Eu0.05Tb0.1,Na3Bi0.85P2O8,Eu2+,0.05,Tb3+,0.1,298,550,0.494,0.457,34.86,,,396,,,,2500000,621,https://doi.org/10.1016/j.jlumin.2016.12.012,mp-561083, icsd-71362,Journal of Luminescence,2017
+668,Na3Bi0.9P2O8Tb0.1,Na3Bi0.9P2O8,Tb3+,0.1,,,298,550,0.311,0.529,41.25,,,377,377,,,,550,https://doi.org/10.1016/j.jlumin.2016.12.012,mp-561083, icsd-71362,Journal of Luminescence,2017
+669,Ca0.94Si2O2N2Ce0.05Eu0.01,Ca0.94Si2O2N2,Ce3+,0.05,Eu2+,0.01,298,550,0.4,0.5,,,,350,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04461.x,mp-556884, icsd-413882,Journal of the American Ceramic Society,2011
+670,Ca0.93Si2O2N2Ce0.05Eu0.02,Ca0.93Si2O2N2,Ce3+,0.05,Eu2+,0.02,298,550,0.4,0.52,,,,350,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04461.x,mp-556884, icsd-413882,Journal of the American Ceramic Society,2011
+671,Ca0.95Si2O2N2Eu0.05,Ca0.95Si2O2N2,Eu2+,0.05,,,298,550,0.41,0.53,17,,,350,,,,,,https://doi.org/10.1111/j.1551-2916.2011.04461.x,mp-556884, icsd-413882,Journal of the American Ceramic Society,2011
+672,KSrSc2P3O12Eu0.03Tb0.07,KSrSc2P3O12,Eu2+,0.03,Tb3+,0.07,298,550,0.178,0.204,44.8,,,300,,,,500.6,445,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+673,KSrSc2P3O12Eu0.03Tb0.1,KSrSc2P3O12,Eu2+,0.03,Tb3+,0.1,298,550,0.185,0.229,39.2,,,300,300,,,482.3,445,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+674,KSrSc2P3O12Eu0.03Tb0.12,KSrSc2P3O12,Eu2+,0.03,Tb3+,0.12,298,550,0.189,0.244,43.2,,,300,,,,452.7,445,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+675,KSrSc2P3O12Eu0.03Tb0.15,KSrSc2P3O12,Eu2+,0.03,Tb3+,0.15,298,550,0.195,0.265,39.4,,,300,,,,424.2,445,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+676,KSrSc2P3O12Eu0.03Tb0.18,KSrSc2P3O12,Eu2+,0.03,Tb3+,0.18,298,550,0.197,0.271,37.6,,,300,,,,395,445,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+677,KSrSc2P3O12Ce0.03Tb0.06,KSrSc2P3O12,Ce3+,0.03,Tb3+,0.06,298,550,0.255,0.429,68.9,,,310,,,,,,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+678,KSrSc2P3O12Ce0.03Tb0.09,KSrSc2P3O12,Ce3+,0.03,Tb3+,0.09,298,550,0.264,0.471,66.8,,,310,,,,,,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+679,KSrSc2P3O12Ce0.03Tb0.12,KSrSc2P3O12,Ce3+,0.03,Tb3+,0.12,298,550,0.268,0.486,77.2,,,310,,,,,,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+680,KSrSc2P3O12Ce0.03Tb0.15,KSrSc2P3O12,Ce3+,0.03,Tb3+,0.15,298,550,0.272,0.502,73.1,,,310,,,,,,https://doi.org/10.1039/C4DT03906H,,,Dalton Transactions,2015
+681,Ba2Y1.7P2O12SiTb0.3,Ba2Y1.7P2O12Si,Tb3+,0.3,,,298,550,0.272,0.527,57.3,,,377,,,,1113000,550,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+682,Ba2Y1.68P2O12SiTb0.3Eu0.02,Ba2Y1.68P2O12Si,Tb3+,0.3,Eu3+,0.02,298,550,0.356,0.476,77.5,,,377,,,,978000,550,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+683,Ba2Y1.66P2O12SiTb0.3Eu0.04,Ba2Y1.66P2O12Si,Tb3+,0.3,Eu3+,0.04,298,550,0.387,0.456,65.3,,,377,,,,,,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+684,Ba2Y1.62P2O12SiTb0.3Eu0.08,Ba2Y1.62P2O12Si,Tb3+,0.3,Eu3+,0.08,298,550,0.434,0.419,60.2,,560,377,,,,892000,550,https://doi.org/10.1021/acs.inorgchem.6b01040,,,Inorganic Chemistry,2016
+685,KBaSc2P3O12Eu0.04Tb0.03,KBaSc2P3O12,Eu2+,0.04,Tb3+,0.03,298,552,0.165,0.121,32.4,,,300,300,,,400.3,420,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+686,KBaSc2P3O12Eu0.04Tb0.06,KBaSc2P3O12,Eu2+,0.04,Tb3+,0.06,298,552,0.181,0.209,37.2,,,300,300,,,374.4,420,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+687,KBaSc2P3O12Eu0.04Tb0.09,KBaSc2P3O12,Eu2+,0.04,Tb3+,0.09,298,552,0.193,0.245,56.4,,,300,300,,,355.5,420,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+688,KBaSc2P3O12Eu0.04Tb0.12,KBaSc2P3O12,Eu2+,0.04,Tb3+,0.12,298,552,0.204,0.285,57.3,,,300,300,,,329.3,420,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+689,KBaSc2P3O12Eu0.04Tb0.15,KBaSc2P3O12,Eu2+,0.04,Tb3+,0.15,298,552,0.224,0.344,42.9,,,300,300,,,300.4,420,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+690,KBaSc2P3O12Eu0.04Tb0.18,KBaSc2P3O12,Eu2+,0.04,Tb3+,0.18,298,552,0.232,0.375,39.7,,,300,300,,,,420,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+691,KBaSc2P3O12Ce0.04Tb0.06,KBaSc2P3O12,Ce3+,0.04,Tb3+,0.06,298,552,0.217,0.312,72.1,,,320,,,,,,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+692,KBaSc2P3O12Ce0.04Tb0.09,KBaSc2P3O12,Ce3+,0.04,Tb3+,0.09,298,552,0.236,0.401,69.4,,,320,,,,,,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+693,KBaSc2P3O12Ce0.04Tb0.12,KBaSc2P3O12,Ce3+,0.04,Tb3+,0.12,298,552,0.248,0.453,66.8,,,320,,,,,,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+694,KBaSc2P3O12Ce0.04Tb0.15,KBaSc2P3O12,Ce3+,0.04,Tb3+,0.15,298,552,0.252,0.476,61.3,,,320,,,,,,https://doi.org/10.1002/cphc.201500387,,,ChemPhysChem,2015
+695,Ca2.73Si2O4N2Eu0.09,Ca2.73Si2O4N2,Eu2+,0.09,,,298,553,0.42,0.52,,,,330,,,,,,https://doi.org/10.1364/OE.19.00A331,,,Optics Express,2011
+696,CaLaGa3S7Eu0.15,CaLaGa3S7,Eu2+,0.15,,,300,554,0.4,0.58,,,414,405,,,,216,,https://doi.org/10.1016/j.jlumin.2012.05.004,,,Journal of Luminescence,2012
+697,CaLaGa3S7Eu0.15,CaLaGa3S7,Eu2+,0.15,,,400,554,,,,,,405,,,,141,554,https://doi.org/10.1016/j.jlumin.2012.05.004,,,Journal of Luminescence,2012
+698,CaLaGa3S7Eu0.15,CaLaGa3S7,Eu2+,0.15,,,500,554,,,,,,405,,,,48,554,https://doi.org/10.1016/j.jlumin.2012.05.004,,,Journal of Luminescence,2012
+699,Sr0.84Si2O2N2Eu0.16,Sr0.84Si2O2N2,Eu2+,0.16,,,298,554,0.419,0.562,58,,471,450,,,,,,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+700,YVO4Er0.05,YVO4,Er3+,0.05,,,298,554,0.241,0.716,56,,,317,317,,,,554,https://doi.org/10.1021/ic100953m,mp-19133, icsd-15604 icsd-107638 icsd-246709 icsd-26894 icsd-78074 icsd-2504 icsd-174549 icsd-246708 icsd-36060,Inorganic Chemistry,2010
+701,Ca0.85LaGa3S7Eu0.15,Ca0.85LaGa3S7,Eu2+,0.15,,,300,554,0.4,0.58,,,420,405,,,,216,554,https://doi.org/10.1016/j.jlumin.2012.05.004,,,Journal of Luminescence,2012
+702,Ca0.85LaGa3S7Eu0.15,Ca0.85LaGa3S7,Eu2+,0.15,,,400,554,,,,,,405,,,,141,554,https://doi.org/10.1016/j.jlumin.2012.05.004,,,Journal of Luminescence,2012
+703,Ca0.85LaGa3S7Eu0.15,Ca0.85LaGa3S7,Eu2+,0.15,,,500,554,,,,,,405,,,,48,554,https://doi.org/10.1016/j.jlumin.2012.05.004,,,Journal of Luminescence,2012
+704,Sr0.84Si2N2O2Eu0.16,Sr0.84Si2N2O2,Eu3+,0.16,,,298,554,0.419,0.562,58,,471,450,,,,700,554,https://doi.org/10.1021/cm802394w,,,Chemistry of Materials,2008
+705,CaSi2N2O2Eu0.02,CaSi2N2O2,Eu2+,0.02,,,298,555,0.419,0.556,76,,440,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+706,Ca0.98Si2N2O2Eu0.02,Ca0.98Si2N2O2,Eu3+,0.02,,,298,555,0.419,0.556,76,,440,450,,,,,,https://doi.org/10.1021/cm802394w,mp-556884, icsd-413882,Chemistry of Materials,2008
+707,KSrGdP2O8Ce0.04Mn0.07,KSrGdP2O8,Ce3+,0.04,Mn2+,0.07,298,555,,,78,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+708,KSrGdP2O8Ce0.04Mn0.12,KSrGdP2O8,Ce3+,0.04,Mn2+,0.12,298,555,,,77,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+709,KSrGdP2O8Ce0.04Mn0.16,KSrGdP2O8,Ce3+,0.04,Mn2+,0.16,298,555,,,80,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+710,KSrGdP2O8Ce0.04Mn0.2,KSrGdP2O8,Ce3+,0.04,Mn2+,0.2,298,555,,,83,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+711,KSrGdP2O8Ce0.04Mn0.25,KSrGdP2O8,Ce3+,0.04,Mn2+,0.25,298,555,,,87,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+712,KSrGdP2O8Ce0.04Mn0.3,KSrGdP2O8,Ce3+,0.04,Mn2+,0.3,298,555,,,85,,,280,,,,,,https://doi.org/10.1039/C2DT31957H,,,Dalton Transactions,2012
+713,Y1.95Mg1.99Al2Si2O12Eu0.01Ce0.05,Y1.95Mg1.99Al2Si2O12,Eu2+,0.01,Ce3+,0.05,298,558,0.352,0.389,,,,365,,,,348,464,https://doi.org/10.1021/acs.inorgchem.1c00317,,,Inorganic Chemistry,2021
+714,Y3Al5O12Ce0.06,Y3Al5O12,Ce3+,0.06,,,298,560,0.43,0.54,54,,,450,,,,,560,https://doi.org/10.1063/1.2367657,mp-3050, icsd-67102 icsd-236589 icsd-280104 icsd-41144 icsd-74607 icsd-41145 icsd-67103 icsd-170157 icsd-20090 icsd-93635 icsd-16825 icsd-170158 icsd-31496 icsd-23848 icsd-93634,Applied Physics Letters,2006
+715,YNb0.4V0.6O4Bi0.01,YNb0.4V0.6O4,Bi3+,0.01,,,298,560,0.407,0.479,52.4,,,310,,,,,,https://doi.org/10.1021/acs.chemmater.6b00277,"mp-5387,mp-1095229", icsd-430911 icsd-20335 icsd-100176 icsd-239207 icsd-430907 icsd-430914 icsd-430913 icsd-430912 icsd-430908 icsd-430916 icsd-430909 icsd-430015 icsd-430910 icsd-430919 icsd-430922 icsd-239208 icsd-430917 icsd-239209 icsd-430920 icsd-430921 icsd-430918,Chemistry of Materials,2016
