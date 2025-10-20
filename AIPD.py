@@ -2791,7 +2791,7 @@ elif select_option == "模型建立":
             colored_header(label="模型训练", description=" ", color_name="blue-30")
             with st.container():
                 # button_train = st.button('🚀 开始训练', type="primary", use_container_width=True)
-                button = st.button('🚀 开始训练', type="primary", use_container_width=True)
+                button_train = st.button('🚀 开始训练', type="primary", use_container_width=True)
 
             if button_train:
                 if operator == '训练集测试集划分':
